@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net" modified="2026-06-15T00:00:00.000Z" agent="Codex" version="24.7.17" type="device">
+  <diagram id="procurement-swimlane-bpmn" name="Procurement Swimlane BPMN">
+    <mxGraphModel dx="1800" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Procurement Request and Approval Process" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="BPMN-style swimlane diagram for university procurement workflow" style="text;html=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#4B5563;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="55" width="700" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="lane_department_user" value="Department User" style="swimlane;html=1;startSize=38;horizontal=0;rounded=0;strokeColor=#1F2937;fillColor=#F8FAFC;fontStyle=1;fontSize=13;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="1450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lane_department_manager" value="Department Manager" style="swimlane;html=1;startSize=38;horizontal=0;rounded=0;strokeColor=#1F2937;fillColor=#F1F5F9;fontStyle=1;fontSize=13;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="1450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lane_finance_office" value="Finance Office" style="swimlane;html=1;startSize=38;horizontal=0;rounded=0;strokeColor=#1F2937;fillColor=#F8FAFC;fontStyle=1;fontSize=13;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="1450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lane_procurement_team" value="Procurement Team" style="swimlane;html=1;startSize=38;horizontal=0;rounded=0;strokeColor=#1F2937;fillColor=#F1F5F9;fontStyle=1;fontSize=13;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="610" width="1450" height="190" as="geometry" />
+        </mxCell>
+
+        <mxCell id="start" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;strokeColor=#166534;fillColor=#DCFCE7;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="165" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="identify_need" value="Identify business need" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#1D4ED8;fillColor=#DBEAFE;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="submit_request" value="Submit procurement request&lt;br&gt;with quote and justification" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#1D4ED8;fillColor=#DBEAFE;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="revise_request" value="Revise request or provide clarification" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#1D4ED8;fillColor=#DBEAFE;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="150" width="180" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="manager_review" value="Review business justification and policy fit" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#7C3AED;fillColor=#EDE9FE;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="manager_decision" value="Manager approved?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#7C3AED;fillColor=#F5F3FF;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="645" y="310" width="110" height="90" as="geometry" />
+        </mxCell>
+
+        <mxCell id="budget_review" value="Validate budget availability and chart string" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#B45309;fillColor=#FEF3C7;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="budget_decision" value="Budget available?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#B45309;fillColor=#FFFBEB;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="480" width="110" height="90" as="geometry" />
+        </mxCell>
+
+        <mxCell id="procurement_review" value="Review sourcing requirements and documentation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#047857;fillColor=#D1FAE5;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="665" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="documentation_decision" value="Documentation complete?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#047857;fillColor=#ECFDF5;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="655" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="issue_po" value="Issue purchase order and update request status" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeColor=#047857;fillColor=#D1FAE5;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="665" width="100" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="end" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;strokeColor=#111827;fillColor=#E5E7EB;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="760" width="54" height="54" as="geometry" />
+        </mxCell>
+
+        <mxCell id="note_1" value="Control: request status and approval dates feed procurement dashboard cycle-time metrics." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#64748B;fillColor=#F8FAFC;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="120" width="330" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e1" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="start" target="identify_need">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="identify_need" target="submit_request">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="submit_request" target="manager_review">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="manager_review" target="manager_decision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" value="No / clarification needed" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#B91C1C;fontSize=11;" edge="1" parent="1" source="manager_decision" target="revise_request">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" value="Yes" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;fontSize=11;" edge="1" parent="1" source="manager_decision" target="budget_review">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="budget_review" target="budget_decision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" value="No / funding issue" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#B91C1C;fontSize=11;" edge="1" parent="1" source="budget_decision" target="revise_request">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1125" y="235" />
+              <mxPoint x="810" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9" value="Yes" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;fontSize=11;" edge="1" parent="1" source="budget_decision" target="procurement_review">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="procurement_review" target="documentation_decision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" value="No / missing docs" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#B91C1C;fontSize=11;" edge="1" parent="1" source="documentation_decision" target="revise_request">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="835" />
+              <mxPoint x="810" y="835" />
+              <mxPoint x="810" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e12" value="Yes" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;fontSize=11;" edge="1" parent="1" source="documentation_decision" target="issue_po">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;" edge="1" parent="1" source="issue_po" target="end">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" value="Resubmits" style="endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#374151;fontSize=11;" edge="1" parent="1" source="revise_request" target="submit_request">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="115" />
+              <mxPoint x="500" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
