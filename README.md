@@ -225,21 +225,6 @@ This project is designed to demonstrate end-to-end analyst work, not just techni
 - Developed UAT test cases with realistic defects and v1.1 remediation.
 - Produced an executive report with findings, implications, and recommendations.
 
-## Sample Interview Talking Points
-
-- "I designed the project around a realistic university Finance & Business Information Services use case where finance leaders lacked integrated visibility across operational systems."
-- "I used a star-schema model because the reporting domains share conformed department and date dimensions but have different fact grains."
-- "The synthetic data intentionally includes business stories, such as IT exceeding budget by 7% and having procurement cycle times around 14 days, so the dashboards support actual analysis rather than random sample data."
-- "I wrote validation tests for both technical data quality and business expectations, including missing department IDs, date validity, budget utilization calculations, and critical overdue maintenance flags."
-- "The documentation package includes requirements, process flows, UAT, and an executive report to show the full Business Analyst lifecycle."
-
-## Resume Bullets
-
-- Built a higher education analytics platform integrating Finance, Procurement, Facilities, and HR datasets into a PostgreSQL-compatible star schema and Power BI-ready CSV outputs.
-- Developed Python ETL scripts with Pandas to generate, transform, and validate FY2024-FY2025 synthetic enterprise data across budget, procurement, maintenance, and workforce domains.
-- Created automated data quality tests using Pytest to validate department integrity, date quality, budget calculations, procurement cycle-time findings, and facilities backlog exceptions.
-- Authored business requirements, current/future-state process flows, UAT test plan, and executive summary report for a university Finance & Business Information Services portfolio project.
-
 ## Completed Scope
 
 - Repository structure
