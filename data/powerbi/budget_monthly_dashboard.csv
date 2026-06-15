@@ -1,0 +1,769 @@
+department_id,department_name,date_key,fiscal_year,fiscal_period,budget_category,monthly_budget,actual_spend,committed_amount,funding_source,last_updated_date,budget_variance,budget_utilization_pct,budget_variance_pct,is_over_budget
+1,Finance & Accounting,20230701,2024,1,Personnel,212516.16,184968.6,13567.74,Operating Fund,2025-06-30,27547.56,87.04,12.96,False
+1,Finance & Accounting,20230801,2024,2,Personnel,224003.52,207108.79,12564.6,Operating Fund,2025-06-30,16894.73,92.46,7.54,False
+1,Finance & Accounting,20230901,2024,3,Personnel,229747.2,202948.72,11161.45,Operating Fund,2025-06-30,26798.48,88.34,11.66,False
+1,Finance & Accounting,20231001,2024,4,Personnel,232619.04,222044.56,19352.93,Operating Fund,2025-06-30,10574.48,95.45,4.55,False
+1,Finance & Accounting,20231101,2024,5,Personnel,238362.72,223694.35,4853.98,Operating Fund,2025-06-30,14668.37,93.85,6.15,False
+1,Finance & Accounting,20231201,2024,6,Personnel,249850.08,227976.68,21742.94,Operating Fund,2025-06-30,21873.4,91.25,8.75,False
+1,Finance & Accounting,20240101,2024,7,Personnel,226875.36,214055.41,5076.52,Operating Fund,2025-06-30,12819.95,94.35,5.65,False
+1,Finance & Accounting,20240201,2024,8,Personnel,232619.04,213042.62,20168.28,Operating Fund,2025-06-30,19576.42,91.58,8.42,False
+1,Finance & Accounting,20240301,2024,9,Personnel,241234.56,219527.15,19126.89,Operating Fund,2025-06-30,21707.41,91.0,9.0,False
+1,Finance & Accounting,20240401,2024,10,Personnel,246978.24,221639.43,11146.21,Operating Fund,2025-06-30,25338.81,89.74,10.26,False
+1,Finance & Accounting,20240501,2024,11,Personnel,258465.6,235362.04,15740.08,Operating Fund,2025-06-30,23103.56,91.06,8.94,False
+1,Finance & Accounting,20240601,2024,12,Personnel,278568.48,255365.26,9250.42,Operating Fund,2025-06-30,23203.22,91.67,8.33,False
+1,Finance & Accounting,20230701,2024,1,Professional Services,54842.88,50785.74,2952.78,Operating Fund,2025-06-30,4057.14,92.6,7.4,False
+1,Finance & Accounting,20230801,2024,2,Professional Services,57807.36,53008.25,2698.8,Operating Fund,2025-06-30,4799.11,91.7,8.3,False
+1,Finance & Accounting,20230901,2024,3,Professional Services,59289.6,51528.85,1914.59,Operating Fund,2025-06-30,7760.75,86.91,13.09,False
+1,Finance & Accounting,20231001,2024,4,Professional Services,60030.72,54916.52,3880.03,Operating Fund,2025-06-30,5114.2,91.48,8.52,False
+1,Finance & Accounting,20231101,2024,5,Professional Services,61512.96,56816.69,4445.55,Operating Fund,2025-06-30,4696.27,92.37,7.63,False
+1,Finance & Accounting,20231201,2024,6,Professional Services,64477.44,58170.21,5489.92,Operating Fund,2025-06-30,6307.23,90.22,9.78,False
+1,Finance & Accounting,20240101,2024,7,Professional Services,58548.48,56460.15,4377.22,Operating Fund,2025-06-30,2088.33,96.43,3.57,False
+1,Finance & Accounting,20240201,2024,8,Professional Services,60030.72,56003.52,4555.29,Operating Fund,2025-06-30,4027.2,93.29,6.71,False
+1,Finance & Accounting,20240301,2024,9,Professional Services,62254.08,54638.04,4187.76,Operating Fund,2025-06-30,7616.04,87.77,12.23,False
+1,Finance & Accounting,20240401,2024,10,Professional Services,63736.32,58604.11,3512.22,Operating Fund,2025-06-30,5132.21,91.95,8.05,False
+1,Finance & Accounting,20240501,2024,11,Professional Services,66700.8,61063.41,3781.41,Operating Fund,2025-06-30,5637.39,91.55,8.45,False
+1,Finance & Accounting,20240601,2024,12,Professional Services,71888.64,66129.31,3786.88,Operating Fund,2025-06-30,5759.33,91.99,8.01,False
+1,Finance & Accounting,20230701,2024,1,Systems,41132.16,38224.79,3085.88,Operating Fund,2025-06-30,2907.37,92.93,7.07,False
+1,Finance & Accounting,20230801,2024,2,Systems,43355.52,38563.51,1691.37,Operating Fund,2025-06-30,4792.01,88.95,11.05,False
+1,Finance & Accounting,20230901,2024,3,Systems,44467.2,39675.99,2946.0,Operating Fund,2025-06-30,4791.21,89.23,10.77,False
+1,Finance & Accounting,20231001,2024,4,Systems,45023.04,41287.16,1046.93,Operating Fund,2025-06-30,3735.88,91.7,8.3,False
+1,Finance & Accounting,20231101,2024,5,Systems,46134.72,44798.69,3288.47,Operating Fund,2025-06-30,1336.03,97.1,2.9,False
+1,Finance & Accounting,20231201,2024,6,Systems,48358.08,42266.28,2847.16,Operating Fund,2025-06-30,6091.8,87.4,12.6,False
+1,Finance & Accounting,20240101,2024,7,Systems,43911.36,41798.43,2645.57,Operating Fund,2025-06-30,2112.93,95.19,4.81,False
+1,Finance & Accounting,20240201,2024,8,Systems,45023.04,43587.21,1065.35,Operating Fund,2025-06-30,1435.83,96.81,3.19,False
+1,Finance & Accounting,20240301,2024,9,Systems,46690.56,43229.04,3993.55,Operating Fund,2025-06-30,3461.52,92.59,7.41,False
+1,Finance & Accounting,20240401,2024,10,Systems,47802.24,42476.26,1283.64,Operating Fund,2025-06-30,5325.98,88.86,11.14,False
+1,Finance & Accounting,20240501,2024,11,Systems,50025.6,43719.73,3697.93,Operating Fund,2025-06-30,6305.87,87.39,12.61,False
+1,Finance & Accounting,20240601,2024,12,Systems,53916.48,48966.51,4336.92,Operating Fund,2025-06-30,4949.97,90.82,9.18,False
+1,Finance & Accounting,20230701,2024,1,Training,34276.8,29392.24,2356.29,Operating Fund,2025-06-30,4884.56,85.75,14.25,False
+1,Finance & Accounting,20230801,2024,2,Training,36129.6,32026.38,850.85,Operating Fund,2025-06-30,4103.22,88.64,11.36,False
+1,Finance & Accounting,20230901,2024,3,Training,37056.0,34910.77,1984.21,Operating Fund,2025-06-30,2145.23,94.21,5.79,False
+1,Finance & Accounting,20231001,2024,4,Training,37519.2,32679.24,2881.16,Operating Fund,2025-06-30,4839.96,87.1,12.9,False
+1,Finance & Accounting,20231101,2024,5,Training,38445.6,35448.17,1990.73,Operating Fund,2025-06-30,2997.43,92.2,7.8,False
+1,Finance & Accounting,20231201,2024,6,Training,40298.4,39345.3,3496.92,Operating Fund,2025-06-30,953.1,97.63,2.37,False
+1,Finance & Accounting,20240101,2024,7,Training,36592.8,33680.01,1427.91,Operating Fund,2025-06-30,2912.79,92.04,7.96,False
+1,Finance & Accounting,20240201,2024,8,Training,37519.2,34704.63,1611.96,Operating Fund,2025-06-30,2814.57,92.5,7.5,False
+1,Finance & Accounting,20240301,2024,9,Training,38908.8,36612.4,1501.18,Operating Fund,2025-06-30,2296.4,94.1,5.9,False
+1,Finance & Accounting,20240401,2024,10,Training,39835.2,36466.3,2281.12,Operating Fund,2025-06-30,3368.9,91.54,8.46,False
+1,Finance & Accounting,20240501,2024,11,Training,41688.0,37486.69,1696.76,Operating Fund,2025-06-30,4201.31,89.92,10.08,False
+1,Finance & Accounting,20240601,2024,12,Training,44930.4,41075.88,1605.29,Operating Fund,2025-06-30,3854.52,91.42,8.58,False
+1,Finance & Accounting,20240701,2025,1,Personnel,220224.0,201762.58,13175.46,Operating Fund,2025-06-30,18461.42,91.62,8.38,False
+1,Finance & Accounting,20240801,2025,2,Personnel,232128.0,230268.45,13027.29,Operating Fund,2025-06-30,1859.55,99.2,0.8,False
+1,Finance & Accounting,20240901,2025,3,Personnel,238080.0,218383.0,20880.87,Operating Fund,2025-06-30,19697.0,91.73,8.27,False
+1,Finance & Accounting,20241001,2025,4,Personnel,241056.0,216252.58,11370.54,Operating Fund,2025-06-30,24803.42,89.71,10.29,False
+1,Finance & Accounting,20241101,2025,5,Personnel,247008.0,234467.74,16967.68,Operating Fund,2025-06-30,12540.26,94.92,5.08,False
+1,Finance & Accounting,20241201,2025,6,Personnel,258912.0,250457.68,15546.51,Operating Fund,2025-06-30,8454.32,96.73,3.27,False
+1,Finance & Accounting,20250101,2025,7,Personnel,235104.0,222110.65,6793.07,Operating Fund,2025-06-30,12993.35,94.47,5.53,False
+1,Finance & Accounting,20250201,2025,8,Personnel,241056.0,228700.12,20174.87,Operating Fund,2025-06-30,12355.88,94.87,5.13,False
+1,Finance & Accounting,20250301,2025,9,Personnel,249984.0,239238.9,17160.05,Operating Fund,2025-06-30,10745.1,95.7,4.3,False
+1,Finance & Accounting,20250401,2025,10,Personnel,255936.0,238041.51,10187.14,Operating Fund,2025-06-30,17894.49,93.01,6.99,False
+1,Finance & Accounting,20250501,2025,11,Personnel,267840.0,254529.17,10482.6,Operating Fund,2025-06-30,13310.83,95.03,4.97,False
+1,Finance & Accounting,20250601,2025,12,Personnel,288672.0,263227.63,17558.52,Operating Fund,2025-06-30,25444.37,91.19,8.81,False
+1,Finance & Accounting,20240701,2025,1,Professional Services,56832.0,51308.94,4160.33,Operating Fund,2025-06-30,5523.06,90.28,9.72,False
+1,Finance & Accounting,20240801,2025,2,Professional Services,59904.0,54368.56,5296.31,Operating Fund,2025-06-30,5535.44,90.76,9.24,False
+1,Finance & Accounting,20240901,2025,3,Professional Services,61440.0,58986.18,4179.29,Operating Fund,2025-06-30,2453.82,96.01,3.99,False
+1,Finance & Accounting,20241001,2025,4,Professional Services,62208.0,59274.43,3827.29,Operating Fund,2025-06-30,2933.57,95.28,4.72,False
+1,Finance & Accounting,20241101,2025,5,Professional Services,63744.0,60704.34,4171.29,Operating Fund,2025-06-30,3039.66,95.23,4.77,False
+1,Finance & Accounting,20241201,2025,6,Professional Services,66816.0,63284.66,2929.79,Operating Fund,2025-06-30,3531.34,94.71,5.29,False
+1,Finance & Accounting,20250101,2025,7,Professional Services,60672.0,59429.23,1970.69,Operating Fund,2025-06-30,1242.77,97.95,2.05,False
+1,Finance & Accounting,20250201,2025,8,Professional Services,62208.0,57089.22,3962.1,Operating Fund,2025-06-30,5118.78,91.77,8.23,False
+1,Finance & Accounting,20250301,2025,9,Professional Services,64512.0,60911.94,3649.83,Operating Fund,2025-06-30,3600.06,94.42,5.58,False
+1,Finance & Accounting,20250401,2025,10,Professional Services,66048.0,61157.63,1545.6,Operating Fund,2025-06-30,4890.37,92.6,7.4,False
+1,Finance & Accounting,20250501,2025,11,Professional Services,69120.0,64017.84,4683.67,Operating Fund,2025-06-30,5102.16,92.62,7.38,False
+1,Finance & Accounting,20250601,2025,12,Professional Services,74496.0,71387.01,6207.58,Operating Fund,2025-06-30,3108.99,95.83,4.17,False
+1,Finance & Accounting,20240701,2025,1,Systems,42624.0,41325.67,2264.34,Operating Fund,2025-06-30,1298.33,96.95,3.05,False
+1,Finance & Accounting,20240801,2025,2,Systems,44928.0,43815.65,3713.19,Operating Fund,2025-06-30,1112.35,97.52,2.48,False
+1,Finance & Accounting,20240901,2025,3,Systems,46080.0,41489.56,3042.43,Operating Fund,2025-06-30,4590.44,90.04,9.96,False
+1,Finance & Accounting,20241001,2025,4,Systems,46656.0,42967.0,1337.91,Operating Fund,2025-06-30,3689.0,92.09,7.91,False
+1,Finance & Accounting,20241101,2025,5,Systems,47808.0,43939.63,1392.64,Operating Fund,2025-06-30,3868.37,91.91,8.09,False
+1,Finance & Accounting,20241201,2025,6,Systems,50112.0,47662.22,3011.62,Operating Fund,2025-06-30,2449.78,95.11,4.89,False
+1,Finance & Accounting,20250101,2025,7,Systems,45504.0,42473.88,2706.5,Operating Fund,2025-06-30,3030.12,93.34,6.66,False
+1,Finance & Accounting,20250201,2025,8,Systems,46656.0,42639.01,1427.06,Operating Fund,2025-06-30,4016.99,91.39,8.61,False
+1,Finance & Accounting,20250301,2025,9,Systems,48384.0,44290.62,2376.44,Operating Fund,2025-06-30,4093.38,91.54,8.46,False
+1,Finance & Accounting,20250401,2025,10,Systems,49536.0,47308.82,1983.9,Operating Fund,2025-06-30,2227.18,95.5,4.5,False
+1,Finance & Accounting,20250501,2025,11,Systems,51840.0,51166.99,2991.45,Operating Fund,2025-06-30,673.01,98.7,1.3,False
+1,Finance & Accounting,20250601,2025,12,Systems,55872.0,52360.95,4891.82,Operating Fund,2025-06-30,3511.05,93.72,6.28,False
+1,Finance & Accounting,20240701,2025,1,Training,35520.0,33852.38,2280.95,Operating Fund,2025-06-30,1667.62,95.31,4.69,False
+1,Finance & Accounting,20240801,2025,2,Training,37440.0,36370.34,1206.06,Operating Fund,2025-06-30,1069.66,97.14,2.86,False
+1,Finance & Accounting,20240901,2025,3,Training,38400.0,36351.85,1115.04,Operating Fund,2025-06-30,2048.15,94.67,5.33,False
+1,Finance & Accounting,20241001,2025,4,Training,38880.0,36931.82,2962.05,Operating Fund,2025-06-30,1948.18,94.99,5.01,False
+1,Finance & Accounting,20241101,2025,5,Training,39840.0,35884.19,3508.78,Operating Fund,2025-06-30,3955.81,90.07,9.93,False
+1,Finance & Accounting,20241201,2025,6,Training,41760.0,40194.89,2461.9,Operating Fund,2025-06-30,1565.11,96.25,3.75,False
+1,Finance & Accounting,20250101,2025,7,Training,37920.0,37285.26,1404.06,Operating Fund,2025-06-30,634.74,98.33,1.67,False
+1,Finance & Accounting,20250201,2025,8,Training,38880.0,34442.01,1213.39,Operating Fund,2025-06-30,4437.99,88.59,11.41,False
+1,Finance & Accounting,20250301,2025,9,Training,40320.0,37544.37,925.07,Operating Fund,2025-06-30,2775.63,93.12,6.88,False
+1,Finance & Accounting,20250401,2025,10,Training,41280.0,37575.9,2991.49,Operating Fund,2025-06-30,3704.1,91.03,8.97,False
+1,Finance & Accounting,20250501,2025,11,Training,43200.0,42064.5,2755.19,Operating Fund,2025-06-30,1135.5,97.37,2.63,False
+1,Finance & Accounting,20250601,2025,12,Training,46560.0,42702.49,2114.3,Operating Fund,2025-06-30,3857.51,91.71,8.29,False
+2,Human Resources,20230701,2024,1,Personnel,172669.38,150766.88,4721.38,Operating Fund,2025-06-30,21902.5,87.32,12.68,False
+2,Human Resources,20230801,2024,2,Personnel,182002.86,162763.88,3652.28,Operating Fund,2025-06-30,19238.98,89.43,10.57,False
+2,Human Resources,20230901,2024,3,Personnel,186669.6,174632.27,11409.75,Operating Fund,2025-06-30,12037.33,93.55,6.45,False
+2,Human Resources,20231001,2024,4,Personnel,189002.97,168502.18,5601.37,Operating Fund,2025-06-30,20500.79,89.15,10.85,False
+2,Human Resources,20231101,2024,5,Personnel,193669.71,182745.59,13009.48,Operating Fund,2025-06-30,10924.12,94.36,5.64,False
+2,Human Resources,20231201,2024,6,Personnel,203003.19,174660.55,7582.4,Operating Fund,2025-06-30,28342.64,86.04,13.96,False
+2,Human Resources,20240101,2024,7,Personnel,184336.23,164857.25,15273.04,Operating Fund,2025-06-30,19478.98,89.43,10.57,False
+2,Human Resources,20240201,2024,8,Personnel,189002.97,168939.39,9429.59,Operating Fund,2025-06-30,20063.58,89.38,10.62,False
+2,Human Resources,20240301,2024,9,Personnel,196003.08,178827.02,15414.98,Operating Fund,2025-06-30,17176.06,91.24,8.76,False
+2,Human Resources,20240401,2024,10,Personnel,200669.82,183165.48,8525.25,Operating Fund,2025-06-30,17504.34,91.28,8.72,False
+2,Human Resources,20240501,2024,11,Personnel,210003.3,198807.78,7374.29,Operating Fund,2025-06-30,11195.52,94.67,5.33,False
+2,Human Resources,20240601,2024,12,Personnel,226336.89,203031.58,13725.87,Operating Fund,2025-06-30,23305.31,89.7,10.3,False
+2,Human Resources,20230701,2024,1,Recruiting,44559.84,38722.0,3763.82,Operating Fund,2025-06-30,5837.84,86.9,13.1,False
+2,Human Resources,20230801,2024,2,Recruiting,46968.48,46453.88,2332.23,Operating Fund,2025-06-30,514.6,98.9,1.1,False
+2,Human Resources,20230901,2024,3,Recruiting,48172.8,41946.08,1915.48,Operating Fund,2025-06-30,6226.72,87.07,12.93,False
+2,Human Resources,20231001,2024,4,Recruiting,48774.96,46710.7,1176.34,Operating Fund,2025-06-30,2064.26,95.77,4.23,False
+2,Human Resources,20231101,2024,5,Recruiting,49979.28,45334.79,3426.77,Operating Fund,2025-06-30,4644.49,90.71,9.29,False
+2,Human Resources,20231201,2024,6,Recruiting,52387.92,47263.13,1582.17,Operating Fund,2025-06-30,5124.79,90.22,9.78,False
+2,Human Resources,20240101,2024,7,Recruiting,47570.64,44363.77,3180.02,Operating Fund,2025-06-30,3206.87,93.26,6.74,False
+2,Human Resources,20240201,2024,8,Recruiting,48774.96,43381.56,3704.04,Operating Fund,2025-06-30,5393.4,88.94,11.06,False
+2,Human Resources,20240301,2024,9,Recruiting,50581.44,44115.74,2831.62,Operating Fund,2025-06-30,6465.7,87.22,12.78,False
+2,Human Resources,20240401,2024,10,Recruiting,51785.76,45351.24,2542.4,Operating Fund,2025-06-30,6434.52,87.57,12.43,False
+2,Human Resources,20240501,2024,11,Recruiting,54194.4,49860.99,1773.75,Operating Fund,2025-06-30,4333.41,92.0,8.0,False
+2,Human Resources,20240601,2024,12,Recruiting,58409.52,51450.92,2799.8,Operating Fund,2025-06-30,6958.6,88.09,11.91,False
+2,Human Resources,20230701,2024,1,Benefits Administration,33419.88,29438.54,2352.97,Operating Fund,2025-06-30,3981.34,88.09,11.91,False
+2,Human Resources,20230801,2024,2,Benefits Administration,35226.36,32129.78,2890.31,Operating Fund,2025-06-30,3096.58,91.21,8.79,False
+2,Human Resources,20230901,2024,3,Benefits Administration,36129.6,32045.07,2171.06,Operating Fund,2025-06-30,4084.53,88.69,11.31,False
+2,Human Resources,20231001,2024,4,Benefits Administration,36581.22,33950.16,2053.35,Operating Fund,2025-06-30,2631.06,92.81,7.19,False
+2,Human Resources,20231101,2024,5,Benefits Administration,37484.46,34108.92,2231.01,Operating Fund,2025-06-30,3375.54,90.99,9.01,False
+2,Human Resources,20231201,2024,6,Benefits Administration,39290.94,36359.78,1001.93,Operating Fund,2025-06-30,2931.16,92.54,7.46,False
+2,Human Resources,20240101,2024,7,Benefits Administration,35677.98,33599.14,2373.12,Operating Fund,2025-06-30,2078.84,94.17,5.83,False
+2,Human Resources,20240201,2024,8,Benefits Administration,36581.22,32557.76,3058.14,Operating Fund,2025-06-30,4023.46,89.0,11.0,False
+2,Human Resources,20240301,2024,9,Benefits Administration,37936.08,33657.55,1800.39,Operating Fund,2025-06-30,4278.53,88.72,11.28,False
+2,Human Resources,20240401,2024,10,Benefits Administration,38839.32,36211.22,1544.95,Operating Fund,2025-06-30,2628.1,93.23,6.77,False
+2,Human Resources,20240501,2024,11,Benefits Administration,40645.8,36041.19,3553.22,Operating Fund,2025-06-30,4604.61,88.67,11.33,False
+2,Human Resources,20240601,2024,12,Benefits Administration,43807.14,38616.98,3508.89,Operating Fund,2025-06-30,5190.16,88.15,11.85,False
+2,Human Resources,20230701,2024,1,Training,27849.9,24915.9,1264.42,Operating Fund,2025-06-30,2934.0,89.46,10.54,False
+2,Human Resources,20230801,2024,2,Training,29355.3,25461.01,657.36,Operating Fund,2025-06-30,3894.29,86.73,13.27,False
+2,Human Resources,20230901,2024,3,Training,30108.0,28842.86,1477.65,Operating Fund,2025-06-30,1265.14,95.8,4.2,False
+2,Human Resources,20231001,2024,4,Training,30484.35,26953.1,2372.76,Operating Fund,2025-06-30,3531.25,88.42,11.58,False
+2,Human Resources,20231101,2024,5,Training,31237.05,29323.47,974.25,Operating Fund,2025-06-30,1913.58,93.87,6.13,False
+2,Human Resources,20231201,2024,6,Training,32742.45,29969.98,981.84,Operating Fund,2025-06-30,2772.47,91.53,8.47,False
+2,Human Resources,20240101,2024,7,Training,29731.65,27324.37,1933.01,Operating Fund,2025-06-30,2407.28,91.9,8.1,False
+2,Human Resources,20240201,2024,8,Training,30484.35,27039.24,1250.53,Operating Fund,2025-06-30,3445.11,88.7,11.3,False
+2,Human Resources,20240301,2024,9,Training,31613.4,27651.01,1115.24,Operating Fund,2025-06-30,3962.39,87.47,12.53,False
+2,Human Resources,20240401,2024,10,Training,32366.1,29061.63,711.55,Operating Fund,2025-06-30,3304.47,89.79,10.21,False
+2,Human Resources,20240501,2024,11,Training,33871.5,31251.22,1527.89,Operating Fund,2025-06-30,2620.28,92.26,7.74,False
+2,Human Resources,20240601,2024,12,Training,36505.95,32802.95,1209.91,Operating Fund,2025-06-30,3703.0,89.86,10.14,False
+2,Human Resources,20240701,2025,1,Personnel,178932.0,163550.42,12480.96,Operating Fund,2025-06-30,15381.58,91.4,8.6,False
+2,Human Resources,20240801,2025,2,Personnel,188604.0,176701.56,15440.21,Operating Fund,2025-06-30,11902.44,93.69,6.31,False
+2,Human Resources,20240901,2025,3,Personnel,193440.0,183604.87,15614.23,Operating Fund,2025-06-30,9835.13,94.92,5.08,False
+2,Human Resources,20241001,2025,4,Personnel,195858.0,176390.31,17382.45,Operating Fund,2025-06-30,19467.69,90.06,9.94,False
+2,Human Resources,20241101,2025,5,Personnel,200694.0,199023.36,14828.0,Operating Fund,2025-06-30,1670.64,99.17,0.83,False
+2,Human Resources,20241201,2025,6,Personnel,210366.0,189682.67,15807.48,Operating Fund,2025-06-30,20683.33,90.17,9.83,False
+2,Human Resources,20250101,2025,7,Personnel,191022.0,167224.81,11686.74,Operating Fund,2025-06-30,23797.19,87.54,12.46,False
+2,Human Resources,20250201,2025,8,Personnel,195858.0,183713.03,17347.34,Operating Fund,2025-06-30,12144.97,93.8,6.2,False
+2,Human Resources,20250301,2025,9,Personnel,203112.0,198406.42,8824.6,Operating Fund,2025-06-30,4705.58,97.68,2.32,False
+2,Human Resources,20250401,2025,10,Personnel,207948.0,186917.74,7678.7,Operating Fund,2025-06-30,21030.26,89.89,10.11,False
+2,Human Resources,20250501,2025,11,Personnel,217620.0,204567.08,14147.26,Operating Fund,2025-06-30,13052.92,94.0,6.0,False
+2,Human Resources,20250601,2025,12,Personnel,234546.0,218957.73,19643.11,Operating Fund,2025-06-30,15588.27,93.35,6.65,False
+2,Human Resources,20240701,2025,1,Recruiting,46176.0,46578.58,1712.83,Operating Fund,2025-06-30,-402.58,100.87,-0.87,True
+2,Human Resources,20240801,2025,2,Recruiting,48672.0,44870.94,3245.6,Operating Fund,2025-06-30,3801.06,92.19,7.81,False
+2,Human Resources,20240901,2025,3,Recruiting,49920.0,45356.79,2126.04,Operating Fund,2025-06-30,4563.21,90.86,9.14,False
+2,Human Resources,20241001,2025,4,Recruiting,50544.0,47310.77,4141.93,Operating Fund,2025-06-30,3233.23,93.6,6.4,False
+2,Human Resources,20241101,2025,5,Recruiting,51792.0,45197.87,2600.24,Operating Fund,2025-06-30,6594.13,87.27,12.73,False
+2,Human Resources,20241201,2025,6,Recruiting,54288.0,50313.04,3257.63,Operating Fund,2025-06-30,3974.96,92.68,7.32,False
+2,Human Resources,20250101,2025,7,Recruiting,49296.0,44583.98,2204.33,Operating Fund,2025-06-30,4712.02,90.44,9.56,False
+2,Human Resources,20250201,2025,8,Recruiting,50544.0,47165.37,3202.2,Operating Fund,2025-06-30,3378.63,93.32,6.68,False
+2,Human Resources,20250301,2025,9,Recruiting,52416.0,51223.19,2116.34,Operating Fund,2025-06-30,1192.81,97.72,2.28,False
+2,Human Resources,20250401,2025,10,Recruiting,53664.0,50944.49,1667.91,Operating Fund,2025-06-30,2719.51,94.93,5.07,False
+2,Human Resources,20250501,2025,11,Recruiting,56160.0,46428.57,2781.06,Operating Fund,2025-06-30,9731.43,82.67,17.33,False
+2,Human Resources,20250601,2025,12,Recruiting,60528.0,60346.42,4311.49,Operating Fund,2025-06-30,181.58,99.7,0.3,False
+2,Human Resources,20240701,2025,1,Benefits Administration,34632.0,31727.55,3104.59,Operating Fund,2025-06-30,2904.45,91.61,8.39,False
+2,Human Resources,20240801,2025,2,Benefits Administration,36504.0,34601.27,1572.05,Operating Fund,2025-06-30,1902.73,94.79,5.21,False
+2,Human Resources,20240901,2025,3,Benefits Administration,37440.0,32815.97,767.17,Operating Fund,2025-06-30,4624.03,87.65,12.35,False
+2,Human Resources,20241001,2025,4,Benefits Administration,37908.0,35799.83,3011.05,Operating Fund,2025-06-30,2108.17,94.44,5.56,False
+2,Human Resources,20241101,2025,5,Benefits Administration,38844.0,37719.94,1726.0,Operating Fund,2025-06-30,1124.06,97.11,2.89,False
+2,Human Resources,20241201,2025,6,Benefits Administration,40716.0,36769.46,2231.32,Operating Fund,2025-06-30,3946.54,90.31,9.69,False
+2,Human Resources,20250101,2025,7,Benefits Administration,36972.0,34700.83,1909.06,Operating Fund,2025-06-30,2271.17,93.86,6.14,False
+2,Human Resources,20250201,2025,8,Benefits Administration,37908.0,34073.31,1124.45,Operating Fund,2025-06-30,3834.69,89.88,10.12,False
+2,Human Resources,20250301,2025,9,Benefits Administration,39312.0,37743.73,2516.47,Operating Fund,2025-06-30,1568.27,96.01,3.99,False
+2,Human Resources,20250401,2025,10,Benefits Administration,40248.0,37779.29,1932.12,Operating Fund,2025-06-30,2468.71,93.87,6.13,False
+2,Human Resources,20250501,2025,11,Benefits Administration,42120.0,38746.97,1041.18,Operating Fund,2025-06-30,3373.03,91.99,8.01,False
+2,Human Resources,20250601,2025,12,Benefits Administration,45396.0,42761.84,1978.7,Operating Fund,2025-06-30,2634.16,94.2,5.8,False
+2,Human Resources,20240701,2025,1,Training,28860.0,27395.99,912.42,Operating Fund,2025-06-30,1464.01,94.93,5.07,False
+2,Human Resources,20240801,2025,2,Training,30420.0,29338.24,699.21,Operating Fund,2025-06-30,1081.76,96.44,3.56,False
+2,Human Resources,20240901,2025,3,Training,31200.0,29739.26,2687.68,Operating Fund,2025-06-30,1460.74,95.32,4.68,False
+2,Human Resources,20241001,2025,4,Training,31590.0,29577.35,2211.61,Operating Fund,2025-06-30,2012.65,93.63,6.37,False
+2,Human Resources,20241101,2025,5,Training,32370.0,29496.38,889.59,Operating Fund,2025-06-30,2873.62,91.12,8.88,False
+2,Human Resources,20241201,2025,6,Training,33930.0,32614.08,1220.23,Operating Fund,2025-06-30,1315.92,96.12,3.88,False
+2,Human Resources,20250101,2025,7,Training,30810.0,28959.3,1544.87,Operating Fund,2025-06-30,1850.7,93.99,6.01,False
+2,Human Resources,20250201,2025,8,Training,31590.0,27825.71,962.02,Operating Fund,2025-06-30,3764.29,88.08,11.92,False
+2,Human Resources,20250301,2025,9,Training,32760.0,29550.3,1388.84,Operating Fund,2025-06-30,3209.7,90.2,9.8,False
+2,Human Resources,20250401,2025,10,Training,33540.0,31941.99,1221.02,Operating Fund,2025-06-30,1598.01,95.24,4.76,False
+2,Human Resources,20250501,2025,11,Training,35100.0,31856.2,1397.37,Operating Fund,2025-06-30,3243.8,90.76,9.24,False
+2,Human Resources,20250601,2025,12,Training,37830.0,34405.19,2361.73,Operating Fund,2025-06-30,3424.81,90.95,9.05,False
+3,Facilities Management,20230701,2024,1,Personnel,380758.12,334471.45,14310.98,Operating Fund,2025-06-30,46286.67,87.84,12.16,False
+3,Facilities Management,20230801,2024,2,Personnel,401339.64,370202.72,16259.95,Operating Fund,2025-06-30,31136.92,92.24,7.76,False
+3,Facilities Management,20230901,2024,3,Personnel,411630.4,408923.44,32091.18,Operating Fund,2025-06-30,2706.96,99.34,0.66,False
+3,Facilities Management,20231001,2024,4,Personnel,416775.78,368510.67,21229.4,Operating Fund,2025-06-30,48265.11,88.42,11.58,False
+3,Facilities Management,20231101,2024,5,Personnel,427066.54,387998.11,28819.06,Operating Fund,2025-06-30,39068.43,90.85,9.15,False
+3,Facilities Management,20231201,2024,6,Personnel,447648.06,417003.52,17842.14,Operating Fund,2025-06-30,30644.54,93.15,6.85,False
+3,Facilities Management,20240101,2024,7,Personnel,406485.02,378201.32,35051.11,Operating Fund,2025-06-30,28283.7,93.04,6.96,False
+3,Facilities Management,20240201,2024,8,Personnel,416775.78,372239.2,23334.35,Operating Fund,2025-06-30,44536.58,89.31,10.69,False
+3,Facilities Management,20240301,2024,9,Personnel,432211.92,407373.07,38892.91,Operating Fund,2025-06-30,24838.85,94.25,5.75,False
+3,Facilities Management,20240401,2024,10,Personnel,442502.68,431542.28,8921.22,Operating Fund,2025-06-30,10960.4,97.52,2.48,False
+3,Facilities Management,20240501,2024,11,Personnel,463084.2,450011.81,21767.38,Operating Fund,2025-06-30,13072.39,97.18,2.82,False
+3,Facilities Management,20240601,2024,12,Personnel,499101.86,484452.7,20891.55,Operating Fund,2025-06-30,14649.16,97.06,2.94,False
+3,Facilities Management,20230701,2024,1,Maintenance Supplies,98260.16,95035.09,8718.45,Operating Fund,2025-06-30,3225.07,96.72,3.28,False
+3,Facilities Management,20230801,2024,2,Maintenance Supplies,103571.52,93289.32,3483.73,Operating Fund,2025-06-30,10282.2,90.07,9.93,False
+3,Facilities Management,20230901,2024,3,Maintenance Supplies,106227.2,97363.4,8819.75,Operating Fund,2025-06-30,8863.8,91.66,8.34,False
+3,Facilities Management,20231001,2024,4,Maintenance Supplies,107555.04,93459.83,5448.83,Operating Fund,2025-06-30,14095.21,86.89,13.11,False
+3,Facilities Management,20231101,2024,5,Maintenance Supplies,110210.72,106620.14,2514.29,Operating Fund,2025-06-30,3590.58,96.74,3.26,False
+3,Facilities Management,20231201,2024,6,Maintenance Supplies,115522.08,107758.22,5240.47,Operating Fund,2025-06-30,7763.86,93.28,6.72,False
+3,Facilities Management,20240101,2024,7,Maintenance Supplies,104899.36,92757.12,8137.69,Operating Fund,2025-06-30,12142.24,88.42,11.58,False
+3,Facilities Management,20240201,2024,8,Maintenance Supplies,107555.04,102502.17,6324.67,Operating Fund,2025-06-30,5052.87,95.3,4.7,False
+3,Facilities Management,20240301,2024,9,Maintenance Supplies,111538.56,106307.4,4483.75,Operating Fund,2025-06-30,5231.16,95.31,4.69,False
+3,Facilities Management,20240401,2024,10,Maintenance Supplies,114194.24,108402.39,6285.84,Operating Fund,2025-06-30,5791.85,94.93,5.07,False
+3,Facilities Management,20240501,2024,11,Maintenance Supplies,119505.6,114365.4,10048.85,Operating Fund,2025-06-30,5140.2,95.7,4.3,False
+3,Facilities Management,20240601,2024,12,Maintenance Supplies,128800.48,123669.91,6780.86,Operating Fund,2025-06-30,5130.57,96.02,3.98,False
+3,Facilities Management,20230701,2024,1,Utilities,73695.12,71983.69,3479.99,Operating Fund,2025-06-30,1711.43,97.68,2.32,False
+3,Facilities Management,20230801,2024,2,Utilities,77678.64,74075.27,5631.87,Operating Fund,2025-06-30,3603.37,95.36,4.64,False
+3,Facilities Management,20230901,2024,3,Utilities,79670.4,75599.53,5373.42,Operating Fund,2025-06-30,4070.87,94.89,5.11,False
+3,Facilities Management,20231001,2024,4,Utilities,80666.28,71593.41,4341.95,Operating Fund,2025-06-30,9072.87,88.75,11.25,False
+3,Facilities Management,20231101,2024,5,Utilities,82658.04,74769.54,5622.88,Operating Fund,2025-06-30,7888.5,90.46,9.54,False
+3,Facilities Management,20231201,2024,6,Utilities,86641.56,85648.1,4962.93,Operating Fund,2025-06-30,993.46,98.85,1.15,False
+3,Facilities Management,20240101,2024,7,Utilities,78674.52,76293.44,6334.21,Operating Fund,2025-06-30,2381.08,96.97,3.03,False
+3,Facilities Management,20240201,2024,8,Utilities,80666.28,72390.41,2285.4,Operating Fund,2025-06-30,8275.87,89.74,10.26,False
+3,Facilities Management,20240301,2024,9,Utilities,83653.92,79624.51,7252.2,Operating Fund,2025-06-30,4029.41,95.18,4.82,False
+3,Facilities Management,20240401,2024,10,Utilities,85645.68,80766.54,4139.71,Operating Fund,2025-06-30,4879.14,94.3,5.7,False
+3,Facilities Management,20240501,2024,11,Utilities,89629.2,78920.28,4769.2,Operating Fund,2025-06-30,10708.92,88.05,11.95,False
+3,Facilities Management,20240601,2024,12,Utilities,96600.36,89483.09,5243.26,Operating Fund,2025-06-30,7117.27,92.63,7.37,False
+3,Facilities Management,20230701,2024,1,Contract Services,61412.6,56813.49,1749.92,Operating Fund,2025-06-30,4599.11,92.51,7.49,False
+3,Facilities Management,20230801,2024,2,Contract Services,64732.2,60288.85,3656.04,Operating Fund,2025-06-30,4443.35,93.14,6.86,False
+3,Facilities Management,20230901,2024,3,Contract Services,66392.0,60472.08,2522.67,Operating Fund,2025-06-30,5919.92,91.08,8.92,False
+3,Facilities Management,20231001,2024,4,Contract Services,67221.9,66558.48,2947.48,Operating Fund,2025-06-30,663.42,99.01,0.99,False
+3,Facilities Management,20231101,2024,5,Contract Services,68881.7,67880.82,3309.83,Operating Fund,2025-06-30,1000.88,98.55,1.45,False
+3,Facilities Management,20231201,2024,6,Contract Services,72201.3,66524.75,3528.68,Operating Fund,2025-06-30,5676.55,92.14,7.86,False
+3,Facilities Management,20240101,2024,7,Contract Services,65562.1,59446.81,2023.25,Operating Fund,2025-06-30,6115.29,90.67,9.33,False
+3,Facilities Management,20240201,2024,8,Contract Services,67221.9,60733.01,4747.09,Operating Fund,2025-06-30,6488.89,90.35,9.65,False
+3,Facilities Management,20240301,2024,9,Contract Services,69711.6,68347.38,3975.97,Operating Fund,2025-06-30,1364.22,98.04,1.96,False
+3,Facilities Management,20240401,2024,10,Contract Services,71371.4,67598.42,3327.12,Operating Fund,2025-06-30,3772.98,94.71,5.29,False
+3,Facilities Management,20240501,2024,11,Contract Services,74691.0,68319.91,3735.19,Operating Fund,2025-06-30,6371.09,91.47,8.53,False
+3,Facilities Management,20240601,2024,12,Contract Services,80500.3,72972.49,3681.42,Operating Fund,2025-06-30,7527.81,90.65,9.35,False
+3,Facilities Management,20240701,2025,1,Personnel,394568.0,360756.02,10226.03,Operating Fund,2025-06-30,33811.98,91.43,8.57,False
+3,Facilities Management,20240801,2025,2,Personnel,415896.0,405762.08,9566.91,Operating Fund,2025-06-30,10133.92,97.56,2.44,False
+3,Facilities Management,20240901,2025,3,Personnel,426560.0,410574.53,32402.05,Operating Fund,2025-06-30,15985.47,96.25,3.75,False
+3,Facilities Management,20241001,2025,4,Personnel,431892.0,414752.73,11613.67,Operating Fund,2025-06-30,17139.27,96.03,3.97,False
+3,Facilities Management,20241101,2025,5,Personnel,442556.0,433598.93,32210.04,Operating Fund,2025-06-30,8957.07,97.98,2.02,False
+3,Facilities Management,20241201,2025,6,Personnel,463884.0,456545.33,19176.97,Operating Fund,2025-06-30,7338.67,98.42,1.58,False
+3,Facilities Management,20250101,2025,7,Personnel,421228.0,392449.86,14933.54,Operating Fund,2025-06-30,28778.14,93.17,6.83,False
+3,Facilities Management,20250201,2025,8,Personnel,431892.0,453344.83,31448.32,Operating Fund,2025-06-30,-21452.83,104.97,-4.97,True
+3,Facilities Management,20250301,2025,9,Personnel,447888.0,429116.74,29942.02,Operating Fund,2025-06-30,18771.26,95.81,4.19,False
+3,Facilities Management,20250401,2025,10,Personnel,458552.0,420728.72,19590.24,Operating Fund,2025-06-30,37823.28,91.75,8.25,False
+3,Facilities Management,20250501,2025,11,Personnel,479880.0,432507.07,40059.36,Operating Fund,2025-06-30,47372.93,90.13,9.87,False
+3,Facilities Management,20250601,2025,12,Personnel,517204.0,508583.15,32465.06,Operating Fund,2025-06-30,8620.85,98.33,1.67,False
+3,Facilities Management,20240701,2025,1,Maintenance Supplies,101824.0,96279.16,4745.37,Operating Fund,2025-06-30,5544.84,94.55,5.45,False
+3,Facilities Management,20240801,2025,2,Maintenance Supplies,107328.0,106501.05,5678.74,Operating Fund,2025-06-30,826.95,99.23,0.77,False
+3,Facilities Management,20240901,2025,3,Maintenance Supplies,110080.0,96967.53,7110.93,Operating Fund,2025-06-30,13112.47,88.09,11.91,False
+3,Facilities Management,20241001,2025,4,Maintenance Supplies,111456.0,109181.34,9717.29,Operating Fund,2025-06-30,2274.66,97.96,2.04,False
+3,Facilities Management,20241101,2025,5,Maintenance Supplies,114208.0,114272.37,7794.88,Operating Fund,2025-06-30,-64.37,100.06,-0.06,True
+3,Facilities Management,20241201,2025,6,Maintenance Supplies,119712.0,117610.2,6092.64,Operating Fund,2025-06-30,2101.8,98.24,1.76,False
+3,Facilities Management,20250101,2025,7,Maintenance Supplies,108704.0,102350.87,4970.25,Operating Fund,2025-06-30,6353.13,94.16,5.84,False
+3,Facilities Management,20250201,2025,8,Maintenance Supplies,111456.0,102946.21,4696.74,Operating Fund,2025-06-30,8509.79,92.36,7.64,False
+3,Facilities Management,20250301,2025,9,Maintenance Supplies,115584.0,113688.22,6586.79,Operating Fund,2025-06-30,1895.78,98.36,1.64,False
+3,Facilities Management,20250401,2025,10,Maintenance Supplies,118336.0,114470.02,5636.24,Operating Fund,2025-06-30,3865.98,96.73,3.27,False
+3,Facilities Management,20250501,2025,11,Maintenance Supplies,123840.0,122795.01,4743.07,Operating Fund,2025-06-30,1044.99,99.16,0.84,False
+3,Facilities Management,20250601,2025,12,Maintenance Supplies,133472.0,123898.02,5106.02,Operating Fund,2025-06-30,9573.98,92.83,7.17,False
+3,Facilities Management,20240701,2025,1,Utilities,76368.0,70634.18,3747.53,Operating Fund,2025-06-30,5733.82,92.49,7.51,False
+3,Facilities Management,20240801,2025,2,Utilities,80496.0,76684.01,2078.64,Operating Fund,2025-06-30,3811.99,95.26,4.74,False
+3,Facilities Management,20240901,2025,3,Utilities,82560.0,82402.26,3552.19,Operating Fund,2025-06-30,157.74,99.81,0.19,False
+3,Facilities Management,20241001,2025,4,Utilities,83592.0,79047.2,3180.62,Operating Fund,2025-06-30,4544.8,94.56,5.44,False
+3,Facilities Management,20241101,2025,5,Utilities,85656.0,81664.89,1774.19,Operating Fund,2025-06-30,3991.11,95.34,4.66,False
+3,Facilities Management,20241201,2025,6,Utilities,89784.0,85553.64,3562.75,Operating Fund,2025-06-30,4230.36,95.29,4.71,False
+3,Facilities Management,20250101,2025,7,Utilities,81528.0,82595.78,3623.02,Operating Fund,2025-06-30,-1067.78,101.31,-1.31,True
+3,Facilities Management,20250201,2025,8,Utilities,83592.0,78095.01,2585.81,Operating Fund,2025-06-30,5496.99,93.42,6.58,False
+3,Facilities Management,20250301,2025,9,Utilities,86688.0,84331.44,2612.81,Operating Fund,2025-06-30,2356.56,97.28,2.72,False
+3,Facilities Management,20250401,2025,10,Utilities,88752.0,87929.94,7020.62,Operating Fund,2025-06-30,822.06,99.07,0.93,False
+3,Facilities Management,20250501,2025,11,Utilities,92880.0,86864.52,3662.24,Operating Fund,2025-06-30,6015.48,93.52,6.48,False
+3,Facilities Management,20250601,2025,12,Utilities,100104.0,94917.12,8706.57,Operating Fund,2025-06-30,5186.88,94.82,5.18,False
+3,Facilities Management,20240701,2025,1,Contract Services,63640.0,62158.61,4161.79,Operating Fund,2025-06-30,1481.39,97.67,2.33,False
+3,Facilities Management,20240801,2025,2,Contract Services,67080.0,62906.44,1810.35,Operating Fund,2025-06-30,4173.56,93.78,6.22,False
+3,Facilities Management,20240901,2025,3,Contract Services,68800.0,66088.48,3590.26,Operating Fund,2025-06-30,2711.52,96.06,3.94,False
+3,Facilities Management,20241001,2025,4,Contract Services,69660.0,64760.35,1807.81,Operating Fund,2025-06-30,4899.65,92.97,7.03,False
+3,Facilities Management,20241101,2025,5,Contract Services,71380.0,70407.13,4568.79,Operating Fund,2025-06-30,972.87,98.64,1.36,False
+3,Facilities Management,20241201,2025,6,Contract Services,74820.0,71675.7,4933.21,Operating Fund,2025-06-30,3144.3,95.8,4.2,False
+3,Facilities Management,20250101,2025,7,Contract Services,67940.0,65293.56,3222.34,Operating Fund,2025-06-30,2646.44,96.1,3.9,False
+3,Facilities Management,20250201,2025,8,Contract Services,69660.0,65909.32,3252.89,Operating Fund,2025-06-30,3750.68,94.62,5.38,False
+3,Facilities Management,20250301,2025,9,Contract Services,72240.0,69272.0,5740.54,Operating Fund,2025-06-30,2968.0,95.89,4.11,False
+3,Facilities Management,20250401,2025,10,Contract Services,73960.0,69841.7,2788.27,Operating Fund,2025-06-30,4118.3,94.43,5.57,False
+3,Facilities Management,20250501,2025,11,Contract Services,77400.0,74175.5,2886.57,Operating Fund,2025-06-30,3224.5,95.83,4.17,False
+3,Facilities Management,20250601,2025,12,Contract Services,83420.0,83111.21,6594.7,Operating Fund,2025-06-30,308.79,99.63,0.37,False
+4,Information Technology,20230701,2024,1,Personnel,318774.24,311728.22,9123.68,Operating Fund,2025-06-30,7046.02,97.79,2.21,False
+4,Information Technology,20230801,2024,2,Personnel,336005.28,319527.56,28056.54,Operating Fund,2025-06-30,16477.72,95.1,4.9,False
+4,Information Technology,20230901,2024,3,Personnel,344620.8,320145.05,28184.11,Operating Fund,2025-06-30,24475.75,92.9,7.1,False
+4,Information Technology,20231001,2024,4,Personnel,348928.56,329847.81,7405.24,Operating Fund,2025-06-30,19080.75,94.53,5.47,False
+4,Information Technology,20231101,2024,5,Personnel,357544.08,333050.96,28454.02,Operating Fund,2025-06-30,24493.12,93.15,6.85,False
+4,Information Technology,20231201,2024,6,Personnel,374775.12,356850.61,18330.85,Operating Fund,2025-06-30,17924.51,95.22,4.78,False
+4,Information Technology,20240101,2024,7,Personnel,340313.04,331790.74,16304.88,Operating Fund,2025-06-30,8522.3,97.5,2.5,False
+4,Information Technology,20240201,2024,8,Personnel,348928.56,350633.28,14473.94,Operating Fund,2025-06-30,-1704.72,100.49,-0.49,True
+4,Information Technology,20240301,2024,9,Personnel,361851.84,357923.79,27539.91,Operating Fund,2025-06-30,3928.05,98.91,1.09,False
+4,Information Technology,20240401,2024,10,Personnel,370467.36,358621.13,13910.91,Operating Fund,2025-06-30,11846.23,96.8,3.2,False
+4,Information Technology,20240501,2024,11,Personnel,387698.4,361552.53,21315.19,Operating Fund,2025-06-30,26145.87,93.26,6.74,False
+4,Information Technology,20240601,2024,12,Personnel,417852.72,403777.92,26727.85,Operating Fund,2025-06-30,14074.8,96.63,3.37,False
+4,Information Technology,20230701,2024,1,Software,82264.32,77140.08,4054.52,Operating Fund,2025-06-30,5124.24,93.77,6.23,False
+4,Information Technology,20230801,2024,2,Software,86711.04,77027.79,2480.36,Operating Fund,2025-06-30,9683.25,88.83,11.17,False
+4,Information Technology,20230901,2024,3,Software,88934.4,84589.85,2996.52,Operating Fund,2025-06-30,4344.55,95.11,4.89,False
+4,Information Technology,20231001,2024,4,Software,90046.08,86167.03,3296.94,Operating Fund,2025-06-30,3879.05,95.69,4.31,False
+4,Information Technology,20231101,2024,5,Software,92269.44,87710.88,4716.17,Operating Fund,2025-06-30,4558.56,95.06,4.94,False
+4,Information Technology,20231201,2024,6,Software,96716.16,94945.47,8700.5,Operating Fund,2025-06-30,1770.69,98.17,1.83,False
+4,Information Technology,20240101,2024,7,Software,87822.72,86350.86,6724.56,Operating Fund,2025-06-30,1471.86,98.32,1.68,False
+4,Information Technology,20240201,2024,8,Software,90046.08,88060.13,6482.03,Operating Fund,2025-06-30,1985.95,97.79,2.21,False
+4,Information Technology,20240301,2024,9,Software,93381.12,96214.35,1975.26,Operating Fund,2025-06-30,-2833.23,103.03,-3.03,True
+4,Information Technology,20240401,2024,10,Software,95604.48,92040.07,1977.02,Operating Fund,2025-06-30,3564.41,96.27,3.73,False
+4,Information Technology,20240501,2024,11,Software,100051.2,92323.18,8146.22,Operating Fund,2025-06-30,7728.02,92.28,7.72,False
+4,Information Technology,20240601,2024,12,Software,107832.96,104643.13,3004.94,Operating Fund,2025-06-30,3189.83,97.04,2.96,False
+4,Information Technology,20230701,2024,1,Hardware,61698.24,58292.53,5449.03,Operating Fund,2025-06-30,3405.71,94.48,5.52,False
+4,Information Technology,20230801,2024,2,Hardware,65033.28,59528.66,5824.63,Operating Fund,2025-06-30,5504.62,91.54,8.46,False
+4,Information Technology,20230901,2024,3,Hardware,66700.8,64156.71,1789.12,Operating Fund,2025-06-30,2544.09,96.19,3.81,False
+4,Information Technology,20231001,2024,4,Hardware,67534.56,65950.28,2220.62,Operating Fund,2025-06-30,1584.28,97.65,2.35,False
+4,Information Technology,20231101,2024,5,Hardware,69202.08,69227.3,1418.72,Operating Fund,2025-06-30,-25.22,100.04,-0.04,True
+4,Information Technology,20231201,2024,6,Hardware,72537.12,69827.15,2354.21,Operating Fund,2025-06-30,2709.97,96.26,3.74,False
+4,Information Technology,20240101,2024,7,Hardware,65867.04,61823.48,5729.94,Operating Fund,2025-06-30,4043.56,93.86,6.14,False
+4,Information Technology,20240201,2024,8,Hardware,67534.56,65434.97,5823.07,Operating Fund,2025-06-30,2099.59,96.89,3.11,False
+4,Information Technology,20240301,2024,9,Hardware,70035.84,65362.46,4762.2,Operating Fund,2025-06-30,4673.38,93.33,6.67,False
+4,Information Technology,20240401,2024,10,Hardware,71703.36,68289.89,3956.09,Operating Fund,2025-06-30,3413.47,95.24,4.76,False
+4,Information Technology,20240501,2024,11,Hardware,75038.4,75422.71,4844.6,Operating Fund,2025-06-30,-384.31,100.51,-0.51,True
+4,Information Technology,20240601,2024,12,Hardware,80874.72,77093.45,2841.19,Operating Fund,2025-06-30,3781.27,95.32,4.68,False
+4,Information Technology,20230701,2024,1,Cloud Services,51415.2,51304.29,4123.79,Operating Fund,2025-06-30,110.91,99.78,0.22,False
+4,Information Technology,20230801,2024,2,Cloud Services,54194.4,50517.64,3843.48,Operating Fund,2025-06-30,3676.76,93.22,6.78,False
+4,Information Technology,20230901,2024,3,Cloud Services,55584.0,53697.0,1877.53,Operating Fund,2025-06-30,1887.0,96.61,3.39,False
+4,Information Technology,20231001,2024,4,Cloud Services,56278.8,51465.41,3146.54,Operating Fund,2025-06-30,4813.39,91.45,8.55,False
+4,Information Technology,20231101,2024,5,Cloud Services,57668.4,55248.71,3232.47,Operating Fund,2025-06-30,2419.69,95.8,4.2,False
+4,Information Technology,20231201,2024,6,Cloud Services,60447.6,55154.61,2029.92,Operating Fund,2025-06-30,5292.99,91.24,8.76,False
+4,Information Technology,20240101,2024,7,Cloud Services,54889.2,53761.26,2779.2,Operating Fund,2025-06-30,1127.94,97.95,2.05,False
+4,Information Technology,20240201,2024,8,Cloud Services,56278.8,54695.06,1301.4,Operating Fund,2025-06-30,1583.74,97.19,2.81,False
+4,Information Technology,20240301,2024,9,Cloud Services,58363.2,57147.63,2923.44,Operating Fund,2025-06-30,1215.57,97.92,2.08,False
+4,Information Technology,20240401,2024,10,Cloud Services,59752.8,55920.76,2716.43,Operating Fund,2025-06-30,3832.04,93.59,6.41,False
+4,Information Technology,20240501,2024,11,Cloud Services,62532.0,62652.56,1905.12,Operating Fund,2025-06-30,-120.56,100.19,-0.19,True
+4,Information Technology,20240601,2024,12,Cloud Services,67395.6,65443.06,4541.82,Operating Fund,2025-06-30,1952.54,97.1,2.9,False
+4,Information Technology,20240701,2025,1,Personnel,330336.0,354727.28,24709.61,Operating Fund,2025-06-30,-24391.28,107.38,-7.38,True
+4,Information Technology,20240801,2025,2,Personnel,348192.0,390528.14,24341.99,Operating Fund,2025-06-30,-42336.14,112.16,-12.16,True
+4,Information Technology,20240901,2025,3,Personnel,357120.0,360607.64,10095.31,Operating Fund,2025-06-30,-3487.64,100.98,-0.98,True
+4,Information Technology,20241001,2025,4,Personnel,361584.0,405544.38,26324.87,Operating Fund,2025-06-30,-43960.38,112.16,-12.16,True
+4,Information Technology,20241101,2025,5,Personnel,370512.0,391001.55,31045.07,Operating Fund,2025-06-30,-20489.55,105.53,-5.53,True
+4,Information Technology,20241201,2025,6,Personnel,388368.0,417840.2,22236.37,Operating Fund,2025-06-30,-29472.2,107.59,-7.59,True
+4,Information Technology,20250101,2025,7,Personnel,352656.0,346499.49,13252.74,Operating Fund,2025-06-30,6156.51,98.25,1.75,False
+4,Information Technology,20250201,2025,8,Personnel,361584.0,415466.03,22681.43,Operating Fund,2025-06-30,-53882.03,114.9,-14.9,True
+4,Information Technology,20250301,2025,9,Personnel,374976.0,406909.28,31322.02,Operating Fund,2025-06-30,-31933.28,108.52,-8.52,True
+4,Information Technology,20250401,2025,10,Personnel,383904.0,399560.05,8063.34,Operating Fund,2025-06-30,-15656.05,104.08,-4.08,True
+4,Information Technology,20250501,2025,11,Personnel,401760.0,431195.73,17770.3,Operating Fund,2025-06-30,-29435.73,107.33,-7.33,True
+4,Information Technology,20250601,2025,12,Personnel,433008.0,456600.23,30540.43,Operating Fund,2025-06-30,-23592.23,105.45,-5.45,True
+4,Information Technology,20240701,2025,1,Software,85248.0,91399.59,15540.85,Operating Fund,2025-06-30,-6151.59,107.22,-7.22,True
+4,Information Technology,20240801,2025,2,Software,89856.0,97226.45,15061.39,Operating Fund,2025-06-30,-7370.45,108.2,-8.2,True
+4,Information Technology,20240901,2025,3,Software,92160.0,99981.61,11367.07,Operating Fund,2025-06-30,-7821.61,108.49,-8.49,True
+4,Information Technology,20241001,2025,4,Software,93312.0,104214.45,12930.93,Operating Fund,2025-06-30,-10902.45,111.68,-11.68,True
+4,Information Technology,20241101,2025,5,Software,95616.0,105036.39,14794.06,Operating Fund,2025-06-30,-9420.39,109.85,-9.85,True
+4,Information Technology,20241201,2025,6,Software,100224.0,110201.56,13481.72,Operating Fund,2025-06-30,-9977.56,109.96,-9.96,True
+4,Information Technology,20250101,2025,7,Software,91008.0,94755.76,17232.26,Operating Fund,2025-06-30,-3747.76,104.12,-4.12,True
+4,Information Technology,20250201,2025,8,Software,93312.0,104093.7,16374.66,Operating Fund,2025-06-30,-10781.7,111.55,-11.55,True
+4,Information Technology,20250301,2025,9,Software,96768.0,100347.46,13769.9,Operating Fund,2025-06-30,-3579.46,103.7,-3.7,True
+4,Information Technology,20250401,2025,10,Software,99072.0,97760.49,16782.85,Operating Fund,2025-06-30,1311.51,98.68,1.32,False
+4,Information Technology,20250501,2025,11,Software,103680.0,113673.85,18064.06,Operating Fund,2025-06-30,-9993.85,109.64,-9.64,True
+4,Information Technology,20250601,2025,12,Software,111744.0,113948.69,16865.88,Operating Fund,2025-06-30,-2204.69,101.97,-1.97,True
+4,Information Technology,20240701,2025,1,Hardware,63936.0,72222.79,3060.21,Operating Fund,2025-06-30,-8286.79,112.96,-12.96,True
+4,Information Technology,20240801,2025,2,Hardware,67392.0,66511.78,3016.12,Operating Fund,2025-06-30,880.22,98.69,1.31,False
+4,Information Technology,20240901,2025,3,Hardware,69120.0,72099.71,5851.43,Operating Fund,2025-06-30,-2979.71,104.31,-4.31,True
+4,Information Technology,20241001,2025,4,Hardware,69984.0,75479.87,3112.4,Operating Fund,2025-06-30,-5495.87,107.85,-7.85,True
+4,Information Technology,20241101,2025,5,Hardware,71712.0,75444.8,5067.31,Operating Fund,2025-06-30,-3732.8,105.21,-5.21,True
+4,Information Technology,20241201,2025,6,Hardware,75168.0,84976.33,5063.32,Operating Fund,2025-06-30,-9808.33,113.05,-13.05,True
+4,Information Technology,20250101,2025,7,Hardware,68256.0,72454.71,2236.65,Operating Fund,2025-06-30,-4198.71,106.15,-6.15,True
+4,Information Technology,20250201,2025,8,Hardware,69984.0,71654.99,2433.46,Operating Fund,2025-06-30,-1670.99,102.39,-2.39,True
+4,Information Technology,20250301,2025,9,Hardware,72576.0,83023.03,1953.26,Operating Fund,2025-06-30,-10447.03,114.39,-14.39,True
+4,Information Technology,20250401,2025,10,Hardware,74304.0,75686.16,4599.14,Operating Fund,2025-06-30,-1382.16,101.86,-1.86,True
+4,Information Technology,20250501,2025,11,Hardware,77760.0,84956.94,1635.49,Operating Fund,2025-06-30,-7196.94,109.26,-9.26,True
+4,Information Technology,20250601,2025,12,Hardware,83808.0,89968.9,3938.88,Operating Fund,2025-06-30,-6160.9,107.35,-7.35,True
+4,Information Technology,20240701,2025,1,Cloud Services,53280.0,56852.62,9082.66,Operating Fund,2025-06-30,-3572.62,106.71,-6.71,True
+4,Information Technology,20240801,2025,2,Cloud Services,56160.0,62963.53,10517.37,Operating Fund,2025-06-30,-6803.53,112.11,-12.11,True
+4,Information Technology,20240901,2025,3,Cloud Services,57600.0,56778.18,6972.02,Operating Fund,2025-06-30,821.82,98.57,1.43,False
+4,Information Technology,20241001,2025,4,Cloud Services,58320.0,63471.14,9628.41,Operating Fund,2025-06-30,-5151.14,108.83,-8.83,True
+4,Information Technology,20241101,2025,5,Cloud Services,59760.0,64084.67,7450.23,Operating Fund,2025-06-30,-4324.67,107.24,-7.24,True
+4,Information Technology,20241201,2025,6,Cloud Services,62640.0,65797.82,7823.94,Operating Fund,2025-06-30,-3157.82,105.04,-5.04,True
+4,Information Technology,20250101,2025,7,Cloud Services,56880.0,59613.36,8856.44,Operating Fund,2025-06-30,-2733.36,104.81,-4.81,True
+4,Information Technology,20250201,2025,8,Cloud Services,58320.0,60262.39,11530.58,Operating Fund,2025-06-30,-1942.39,103.33,-3.33,True
+4,Information Technology,20250301,2025,9,Cloud Services,60480.0,67651.5,11262.56,Operating Fund,2025-06-30,-7171.5,111.86,-11.86,True
+4,Information Technology,20250401,2025,10,Cloud Services,61920.0,70112.84,11840.41,Operating Fund,2025-06-30,-8192.84,113.23,-13.23,True
+4,Information Technology,20250501,2025,11,Cloud Services,64800.0,70170.29,7873.12,Operating Fund,2025-06-30,-5370.29,108.29,-8.29,True
+4,Information Technology,20250601,2025,12,Cloud Services,69840.0,72641.65,12997.96,Operating Fund,2025-06-30,-2801.65,104.01,-4.01,True
+5,College of Liberal Arts,20230701,2024,1,Personnel,509153.3,453016.85,19927.22,Academic Operating Fund,2025-06-30,56136.45,88.97,11.03,False
+5,College of Liberal Arts,20230801,2024,2,Personnel,536675.1,519320.22,47996.9,Academic Operating Fund,2025-06-30,17354.88,96.77,3.23,False
+5,College of Liberal Arts,20230901,2024,3,Personnel,550436.0,544024.25,16891.59,Academic Operating Fund,2025-06-30,6411.75,98.84,1.16,False
+5,College of Liberal Arts,20231001,2024,4,Personnel,557316.45,514857.78,25500.6,Academic Operating Fund,2025-06-30,42458.67,92.38,7.62,False
+5,College of Liberal Arts,20231101,2024,5,Personnel,571077.35,540771.03,50768.46,Academic Operating Fund,2025-06-30,30306.32,94.69,5.31,False
+5,College of Liberal Arts,20231201,2024,6,Personnel,598599.15,558883.29,38098.94,Academic Operating Fund,2025-06-30,39715.86,93.37,6.63,False
+5,College of Liberal Arts,20240101,2024,7,Personnel,543555.55,490432.18,36425.38,Academic Operating Fund,2025-06-30,53123.37,90.23,9.77,False
+5,College of Liberal Arts,20240201,2024,8,Personnel,557316.45,467111.06,47826.95,Academic Operating Fund,2025-06-30,90205.39,83.81,16.19,False
+5,College of Liberal Arts,20240301,2024,9,Personnel,577957.8,510367.6,38911.92,Academic Operating Fund,2025-06-30,67590.2,88.31,11.69,False
+5,College of Liberal Arts,20240401,2024,10,Personnel,591718.7,570019.14,34917.68,Academic Operating Fund,2025-06-30,21699.56,96.33,3.67,False
+5,College of Liberal Arts,20240501,2024,11,Personnel,619240.5,582265.13,24456.99,Academic Operating Fund,2025-06-30,36975.37,94.03,5.97,False
+5,College of Liberal Arts,20240601,2024,12,Personnel,667403.65,613347.71,16821.85,Academic Operating Fund,2025-06-30,54055.94,91.9,8.1,False
+5,College of Liberal Arts,20230701,2024,1,Instructional Supplies,131394.4,116082.62,11416.36,Academic Operating Fund,2025-06-30,15311.78,88.35,11.65,False
+5,College of Liberal Arts,20230801,2024,2,Instructional Supplies,138496.8,129201.67,6721.45,Academic Operating Fund,2025-06-30,9295.13,93.29,6.71,False
+5,College of Liberal Arts,20230901,2024,3,Instructional Supplies,142048.0,130464.8,4132.56,Academic Operating Fund,2025-06-30,11583.2,91.85,8.15,False
+5,College of Liberal Arts,20231001,2024,4,Instructional Supplies,143823.6,139328.15,6920.17,Academic Operating Fund,2025-06-30,4495.45,96.87,3.13,False
+5,College of Liberal Arts,20231101,2024,5,Instructional Supplies,147374.8,135986.13,12105.46,Academic Operating Fund,2025-06-30,11388.67,92.27,7.73,False
+5,College of Liberal Arts,20231201,2024,6,Instructional Supplies,154477.2,145160.21,7536.33,Academic Operating Fund,2025-06-30,9316.99,93.97,6.03,False
+5,College of Liberal Arts,20240101,2024,7,Instructional Supplies,140272.4,128619.27,4926.44,Academic Operating Fund,2025-06-30,11653.13,91.69,8.31,False
+5,College of Liberal Arts,20240201,2024,8,Instructional Supplies,143823.6,139841.95,7879.15,Academic Operating Fund,2025-06-30,3981.65,97.23,2.77,False
+5,College of Liberal Arts,20240301,2024,9,Instructional Supplies,149150.4,131231.17,5524.02,Academic Operating Fund,2025-06-30,17919.23,87.99,12.01,False
+5,College of Liberal Arts,20240401,2024,10,Instructional Supplies,152701.6,129659.49,11288.12,Academic Operating Fund,2025-06-30,23042.11,84.91,15.09,False
+5,College of Liberal Arts,20240501,2024,11,Instructional Supplies,159804.0,149506.54,14179.09,Academic Operating Fund,2025-06-30,10297.46,93.56,6.44,False
+5,College of Liberal Arts,20240601,2024,12,Instructional Supplies,172233.2,167348.0,14933.33,Academic Operating Fund,2025-06-30,4885.2,97.16,2.84,False
+5,College of Liberal Arts,20230701,2024,1,Travel,98545.8,89703.89,6467.72,Academic Operating Fund,2025-06-30,8841.91,91.03,8.97,False
+5,College of Liberal Arts,20230801,2024,2,Travel,103872.6,100636.58,3834.3,Academic Operating Fund,2025-06-30,3236.02,96.88,3.12,False
+5,College of Liberal Arts,20230901,2024,3,Travel,106536.0,101298.21,8886.54,Academic Operating Fund,2025-06-30,5237.79,95.08,4.92,False
+5,College of Liberal Arts,20231001,2024,4,Travel,107867.7,94175.19,8751.83,Academic Operating Fund,2025-06-30,13692.51,87.31,12.69,False
+5,College of Liberal Arts,20231101,2024,5,Travel,110531.1,101795.65,4989.46,Academic Operating Fund,2025-06-30,8735.45,92.1,7.9,False
+5,College of Liberal Arts,20231201,2024,6,Travel,115857.9,104846.55,7313.14,Academic Operating Fund,2025-06-30,11011.35,90.5,9.5,False
+5,College of Liberal Arts,20240101,2024,7,Travel,105204.3,97250.29,2885.66,Academic Operating Fund,2025-06-30,7954.01,92.44,7.56,False
+5,College of Liberal Arts,20240201,2024,8,Travel,107867.7,101448.53,9667.43,Academic Operating Fund,2025-06-30,6419.17,94.05,5.95,False
+5,College of Liberal Arts,20240301,2024,9,Travel,111862.8,105444.67,7954.65,Academic Operating Fund,2025-06-30,6418.13,94.26,5.74,False
+5,College of Liberal Arts,20240401,2024,10,Travel,114526.2,104412.61,9069.66,Academic Operating Fund,2025-06-30,10113.59,91.17,8.83,False
+5,College of Liberal Arts,20240501,2024,11,Travel,119853.0,112460.81,9457.14,Academic Operating Fund,2025-06-30,7392.19,93.83,6.17,False
+5,College of Liberal Arts,20240601,2024,12,Travel,129174.9,118349.51,6270.52,Academic Operating Fund,2025-06-30,10825.39,91.62,8.38,False
+5,College of Liberal Arts,20230701,2024,1,Student Support,82121.5,74841.76,2704.15,Academic Operating Fund,2025-06-30,7279.74,91.14,8.86,False
+5,College of Liberal Arts,20230801,2024,2,Student Support,86560.5,79154.14,3828.49,Academic Operating Fund,2025-06-30,7406.36,91.44,8.56,False
+5,College of Liberal Arts,20230901,2024,3,Student Support,88780.0,78148.95,2668.96,Academic Operating Fund,2025-06-30,10631.05,88.03,11.97,False
+5,College of Liberal Arts,20231001,2024,4,Student Support,89889.75,82309.38,4868.68,Academic Operating Fund,2025-06-30,7580.37,91.57,8.43,False
+5,College of Liberal Arts,20231101,2024,5,Student Support,92109.25,85225.07,5362.5,Academic Operating Fund,2025-06-30,6884.18,92.53,7.47,False
+5,College of Liberal Arts,20231201,2024,6,Student Support,96548.25,89638.71,3829.95,Academic Operating Fund,2025-06-30,6909.54,92.84,7.16,False
+5,College of Liberal Arts,20240101,2024,7,Student Support,87670.25,78037.11,2897.38,Academic Operating Fund,2025-06-30,9633.14,89.01,10.99,False
+5,College of Liberal Arts,20240201,2024,8,Student Support,89889.75,84830.16,5922.55,Academic Operating Fund,2025-06-30,5059.59,94.37,5.63,False
+5,College of Liberal Arts,20240301,2024,9,Student Support,93219.0,89778.07,2818.3,Academic Operating Fund,2025-06-30,3440.93,96.31,3.69,False
+5,College of Liberal Arts,20240401,2024,10,Student Support,95438.5,97378.4,6170.82,Academic Operating Fund,2025-06-30,-1939.9,102.03,-2.03,True
+5,College of Liberal Arts,20240501,2024,11,Student Support,99877.5,88081.32,8349.33,Academic Operating Fund,2025-06-30,11796.18,88.19,11.81,False
+5,College of Liberal Arts,20240601,2024,12,Student Support,107645.75,99095.69,4766.38,Academic Operating Fund,2025-06-30,8550.06,92.06,7.94,False
+5,College of Liberal Arts,20240701,2025,1,Personnel,527620.0,507782.66,45205.26,Academic Operating Fund,2025-06-30,19837.34,96.24,3.76,False
+5,College of Liberal Arts,20240801,2025,2,Personnel,556140.0,523968.15,12051.05,Academic Operating Fund,2025-06-30,32171.85,94.22,5.78,False
+5,College of Liberal Arts,20240901,2025,3,Personnel,570400.0,509534.06,15502.93,Academic Operating Fund,2025-06-30,60865.94,89.33,10.67,False
+5,College of Liberal Arts,20241001,2025,4,Personnel,577530.0,570920.06,14815.0,Academic Operating Fund,2025-06-30,6609.94,98.86,1.14,False
+5,College of Liberal Arts,20241101,2025,5,Personnel,591790.0,574722.39,17704.86,Academic Operating Fund,2025-06-30,17067.61,97.12,2.88,False
+5,College of Liberal Arts,20241201,2025,6,Personnel,620310.0,573161.01,12817.0,Academic Operating Fund,2025-06-30,47148.99,92.4,7.6,False
+5,College of Liberal Arts,20250101,2025,7,Personnel,563270.0,518103.2,29201.36,Academic Operating Fund,2025-06-30,45166.8,91.98,8.02,False
+5,College of Liberal Arts,20250201,2025,8,Personnel,577530.0,536014.66,36270.69,Academic Operating Fund,2025-06-30,41515.34,92.81,7.19,False
+5,College of Liberal Arts,20250301,2025,9,Personnel,598920.0,597508.29,41270.82,Academic Operating Fund,2025-06-30,1411.71,99.76,0.24,False
+5,College of Liberal Arts,20250401,2025,10,Personnel,613180.0,561889.25,26933.56,Academic Operating Fund,2025-06-30,51290.75,91.64,8.36,False
+5,College of Liberal Arts,20250501,2025,11,Personnel,641700.0,597110.96,37235.32,Academic Operating Fund,2025-06-30,44589.04,93.05,6.95,False
+5,College of Liberal Arts,20250601,2025,12,Personnel,691610.0,702785.31,43093.73,Academic Operating Fund,2025-06-30,-11175.31,101.62,-1.62,True
+5,College of Liberal Arts,20240701,2025,1,Instructional Supplies,136160.0,127040.56,6074.91,Academic Operating Fund,2025-06-30,9119.44,93.3,6.7,False
+5,College of Liberal Arts,20240801,2025,2,Instructional Supplies,143520.0,139016.1,5107.1,Academic Operating Fund,2025-06-30,4503.9,96.86,3.14,False
+5,College of Liberal Arts,20240901,2025,3,Instructional Supplies,147200.0,147515.51,6419.23,Academic Operating Fund,2025-06-30,-315.51,100.21,-0.21,True
+5,College of Liberal Arts,20241001,2025,4,Instructional Supplies,149040.0,132506.26,10075.21,Academic Operating Fund,2025-06-30,16533.74,88.91,11.09,False
+5,College of Liberal Arts,20241101,2025,5,Instructional Supplies,152720.0,140171.36,9113.17,Academic Operating Fund,2025-06-30,12548.64,91.78,8.22,False
+5,College of Liberal Arts,20241201,2025,6,Instructional Supplies,160080.0,153799.88,13880.13,Academic Operating Fund,2025-06-30,6280.12,96.08,3.92,False
+5,College of Liberal Arts,20250101,2025,7,Instructional Supplies,145360.0,143788.39,8551.41,Academic Operating Fund,2025-06-30,1571.61,98.92,1.08,False
+5,College of Liberal Arts,20250201,2025,8,Instructional Supplies,149040.0,135474.54,11659.24,Academic Operating Fund,2025-06-30,13565.46,90.9,9.1,False
+5,College of Liberal Arts,20250301,2025,9,Instructional Supplies,154560.0,149398.42,6446.34,Academic Operating Fund,2025-06-30,5161.58,96.66,3.34,False
+5,College of Liberal Arts,20250401,2025,10,Instructional Supplies,158240.0,151668.5,7196.35,Academic Operating Fund,2025-06-30,6571.5,95.85,4.15,False
+5,College of Liberal Arts,20250501,2025,11,Instructional Supplies,165600.0,163758.54,7932.76,Academic Operating Fund,2025-06-30,1841.46,98.89,1.11,False
+5,College of Liberal Arts,20250601,2025,12,Instructional Supplies,178480.0,163861.95,9972.0,Academic Operating Fund,2025-06-30,14618.05,91.81,8.19,False
+5,College of Liberal Arts,20240701,2025,1,Travel,102120.0,94878.29,2511.61,Academic Operating Fund,2025-06-30,7241.71,92.91,7.09,False
+5,College of Liberal Arts,20240801,2025,2,Travel,107640.0,99256.68,6866.18,Academic Operating Fund,2025-06-30,8383.32,92.21,7.79,False
+5,College of Liberal Arts,20240901,2025,3,Travel,110400.0,108572.92,2636.85,Academic Operating Fund,2025-06-30,1827.08,98.35,1.65,False
+5,College of Liberal Arts,20241001,2025,4,Travel,111780.0,107856.17,8205.86,Academic Operating Fund,2025-06-30,3923.83,96.49,3.51,False
+5,College of Liberal Arts,20241101,2025,5,Travel,114540.0,108885.65,7785.38,Academic Operating Fund,2025-06-30,5654.35,95.06,4.94,False
+5,College of Liberal Arts,20241201,2025,6,Travel,120060.0,110327.51,4323.7,Academic Operating Fund,2025-06-30,9732.49,91.89,8.11,False
+5,College of Liberal Arts,20250101,2025,7,Travel,109020.0,97517.2,2228.24,Academic Operating Fund,2025-06-30,11502.8,89.45,10.55,False
+5,College of Liberal Arts,20250201,2025,8,Travel,111780.0,105008.77,6690.54,Academic Operating Fund,2025-06-30,6771.23,93.94,6.06,False
+5,College of Liberal Arts,20250301,2025,9,Travel,115920.0,114711.31,9418.98,Academic Operating Fund,2025-06-30,1208.69,98.96,1.04,False
+5,College of Liberal Arts,20250401,2025,10,Travel,118680.0,119157.86,9432.35,Academic Operating Fund,2025-06-30,-477.86,100.4,-0.4,True
+5,College of Liberal Arts,20250501,2025,11,Travel,124200.0,118082.48,3713.83,Academic Operating Fund,2025-06-30,6117.52,95.07,4.93,False
+5,College of Liberal Arts,20250601,2025,12,Travel,133860.0,126745.16,5339.97,Academic Operating Fund,2025-06-30,7114.84,94.68,5.32,False
+5,College of Liberal Arts,20240701,2025,1,Student Support,85100.0,84180.05,5626.01,Academic Operating Fund,2025-06-30,919.95,98.92,1.08,False
+5,College of Liberal Arts,20240801,2025,2,Student Support,89700.0,82957.05,7699.25,Academic Operating Fund,2025-06-30,6742.95,92.48,7.52,False
+5,College of Liberal Arts,20240901,2025,3,Student Support,92000.0,88056.69,5857.46,Academic Operating Fund,2025-06-30,3943.31,95.71,4.29,False
+5,College of Liberal Arts,20241001,2025,4,Student Support,93150.0,85930.89,8276.25,Academic Operating Fund,2025-06-30,7219.11,92.25,7.75,False
+5,College of Liberal Arts,20241101,2025,5,Student Support,95450.0,91856.9,2786.16,Academic Operating Fund,2025-06-30,3593.1,96.24,3.76,False
+5,College of Liberal Arts,20241201,2025,6,Student Support,100050.0,89829.29,7743.65,Academic Operating Fund,2025-06-30,10220.71,89.78,10.22,False
+5,College of Liberal Arts,20250101,2025,7,Student Support,90850.0,86080.44,6114.65,Academic Operating Fund,2025-06-30,4769.56,94.75,5.25,False
+5,College of Liberal Arts,20250201,2025,8,Student Support,93150.0,87073.3,4632.24,Academic Operating Fund,2025-06-30,6076.7,93.48,6.52,False
+5,College of Liberal Arts,20250301,2025,9,Student Support,96600.0,95948.14,6971.71,Academic Operating Fund,2025-06-30,651.86,99.33,0.67,False
+5,College of Liberal Arts,20250401,2025,10,Student Support,98900.0,90378.53,7385.37,Academic Operating Fund,2025-06-30,8521.47,91.38,8.62,False
+5,College of Liberal Arts,20250501,2025,11,Student Support,103500.0,97478.04,7849.4,Academic Operating Fund,2025-06-30,6021.96,94.18,5.82,False
+5,College of Liberal Arts,20250601,2025,12,Student Support,111550.0,112730.69,7280.57,Academic Operating Fund,2025-06-30,-1180.69,101.06,-1.06,True
+6,College of Engineering,20230701,2024,1,Personnel,584419.44,528633.66,21697.47,Academic Operating Fund,2025-06-30,55785.78,90.45,9.55,False
+6,College of Engineering,20230801,2024,2,Personnel,616009.68,617277.78,53399.75,Academic Operating Fund,2025-06-30,-1268.1,100.21,-0.21,True
+6,College of Engineering,20230901,2024,3,Personnel,631804.8,615446.79,21324.94,Academic Operating Fund,2025-06-30,16358.01,97.41,2.59,False
+6,College of Engineering,20231001,2024,4,Personnel,639702.36,564991.48,20394.36,Academic Operating Fund,2025-06-30,74710.88,88.32,11.68,False
+6,College of Engineering,20231101,2024,5,Personnel,655497.48,608047.66,56530.47,Academic Operating Fund,2025-06-30,47449.82,92.76,7.24,False
+6,College of Engineering,20231201,2024,6,Personnel,687087.72,645795.21,47096.81,Academic Operating Fund,2025-06-30,41292.51,93.99,6.01,False
+6,College of Engineering,20240101,2024,7,Personnel,623907.24,603537.7,42042.65,Academic Operating Fund,2025-06-30,20369.54,96.74,3.26,False
+6,College of Engineering,20240201,2024,8,Personnel,639702.36,615455.56,44305.96,Academic Operating Fund,2025-06-30,24246.8,96.21,3.79,False
+6,College of Engineering,20240301,2024,9,Personnel,663395.04,621652.51,49366.05,Academic Operating Fund,2025-06-30,41742.53,93.71,6.29,False
+6,College of Engineering,20240401,2024,10,Personnel,679190.16,636463.54,39222.79,Academic Operating Fund,2025-06-30,42726.62,93.71,6.29,False
+6,College of Engineering,20240501,2024,11,Personnel,710780.4,689003.39,55835.82,Academic Operating Fund,2025-06-30,21777.01,96.94,3.06,False
+6,College of Engineering,20240601,2024,12,Personnel,766063.32,716888.92,63593.22,Academic Operating Fund,2025-06-30,49174.4,93.58,6.42,False
+6,College of Engineering,20230701,2024,1,Lab Equipment,150817.92,134741.19,12164.43,Academic Operating Fund,2025-06-30,16076.73,89.34,10.66,False
+6,College of Engineering,20230801,2024,2,Lab Equipment,158970.24,149743.83,4378.74,Academic Operating Fund,2025-06-30,9226.41,94.2,5.8,False
+6,College of Engineering,20230901,2024,3,Lab Equipment,163046.4,155065.72,5752.51,Academic Operating Fund,2025-06-30,7980.68,95.11,4.89,False
+6,College of Engineering,20231001,2024,4,Lab Equipment,165084.48,159057.75,11862.26,Academic Operating Fund,2025-06-30,6026.73,96.35,3.65,False
+6,College of Engineering,20231101,2024,5,Lab Equipment,169160.64,159153.46,3569.09,Academic Operating Fund,2025-06-30,10007.18,94.08,5.92,False
+6,College of Engineering,20231201,2024,6,Lab Equipment,177312.96,159646.81,8100.16,Academic Operating Fund,2025-06-30,17666.15,90.04,9.96,False
+6,College of Engineering,20240101,2024,7,Lab Equipment,161008.32,158636.66,3991.73,Academic Operating Fund,2025-06-30,2371.66,98.53,1.47,False
+6,College of Engineering,20240201,2024,8,Lab Equipment,165084.48,153027.27,13150.29,Academic Operating Fund,2025-06-30,12057.21,92.7,7.3,False
+6,College of Engineering,20240301,2024,9,Lab Equipment,171198.72,157879.93,4572.8,Academic Operating Fund,2025-06-30,13318.79,92.22,7.78,False
+6,College of Engineering,20240401,2024,10,Lab Equipment,175274.88,168012.1,6857.02,Academic Operating Fund,2025-06-30,7262.78,95.86,4.14,False
+6,College of Engineering,20240501,2024,11,Lab Equipment,183427.2,176413.36,3999.54,Academic Operating Fund,2025-06-30,7013.84,96.18,3.82,False
+6,College of Engineering,20240601,2024,12,Lab Equipment,197693.76,194607.53,7652.5,Academic Operating Fund,2025-06-30,3086.23,98.44,1.56,False
+6,College of Engineering,20230701,2024,1,Research Support,113113.44,106354.31,4949.84,Academic Operating Fund,2025-06-30,6759.13,94.02,5.98,False
+6,College of Engineering,20230801,2024,2,Research Support,119227.68,114649.38,3347.24,Academic Operating Fund,2025-06-30,4578.3,96.16,3.84,False
+6,College of Engineering,20230901,2024,3,Research Support,122284.8,109545.83,10316.22,Academic Operating Fund,2025-06-30,12738.97,89.58,10.42,False
+6,College of Engineering,20231001,2024,4,Research Support,123813.36,120464.38,6022.79,Academic Operating Fund,2025-06-30,3348.98,97.3,2.7,False
+6,College of Engineering,20231101,2024,5,Research Support,126870.48,123928.74,3094.22,Academic Operating Fund,2025-06-30,2941.74,97.68,2.32,False
+6,College of Engineering,20231201,2024,6,Research Support,132984.72,118511.24,4529.27,Academic Operating Fund,2025-06-30,14473.48,89.12,10.88,False
+6,College of Engineering,20240101,2024,7,Research Support,120756.24,119560.7,8254.02,Academic Operating Fund,2025-06-30,1195.54,99.01,0.99,False
+6,College of Engineering,20240201,2024,8,Research Support,123813.36,109863.39,2811.74,Academic Operating Fund,2025-06-30,13949.97,88.73,11.27,False
+6,College of Engineering,20240301,2024,9,Research Support,128399.04,121118.35,10364.28,Academic Operating Fund,2025-06-30,7280.69,94.33,5.67,False
+6,College of Engineering,20240401,2024,10,Research Support,131456.16,128556.29,6251.72,Academic Operating Fund,2025-06-30,2899.87,97.79,2.21,False
+6,College of Engineering,20240501,2024,11,Research Support,137570.4,136903.95,6910.13,Academic Operating Fund,2025-06-30,666.45,99.52,0.48,False
+6,College of Engineering,20240601,2024,12,Research Support,148270.32,135032.63,3051.92,Academic Operating Fund,2025-06-30,13237.69,91.07,8.93,False
+6,College of Engineering,20230701,2024,1,Travel,94261.2,91437.46,6848.85,Academic Operating Fund,2025-06-30,2823.74,97.0,3.0,False
+6,College of Engineering,20230801,2024,2,Travel,99356.4,93680.7,5351.97,Academic Operating Fund,2025-06-30,5675.7,94.29,5.71,False
+6,College of Engineering,20230901,2024,3,Travel,101904.0,100072.28,4887.27,Academic Operating Fund,2025-06-30,1831.72,98.2,1.8,False
+6,College of Engineering,20231001,2024,4,Travel,103177.8,93697.04,5473.81,Academic Operating Fund,2025-06-30,9480.76,90.81,9.19,False
+6,College of Engineering,20231101,2024,5,Travel,105725.4,102078.69,5831.91,Academic Operating Fund,2025-06-30,3646.71,96.55,3.45,False
+6,College of Engineering,20231201,2024,6,Travel,110820.6,105110.56,2628.35,Academic Operating Fund,2025-06-30,5710.04,94.85,5.15,False
+6,College of Engineering,20240101,2024,7,Travel,100630.2,92061.16,7823.83,Academic Operating Fund,2025-06-30,8569.04,91.48,8.52,False
+6,College of Engineering,20240201,2024,8,Travel,103177.8,91165.94,6230.69,Academic Operating Fund,2025-06-30,12011.86,88.36,11.64,False
+6,College of Engineering,20240301,2024,9,Travel,106999.2,103523.47,5445.16,Academic Operating Fund,2025-06-30,3475.73,96.75,3.25,False
+6,College of Engineering,20240401,2024,10,Travel,109546.8,105564.58,5858.79,Academic Operating Fund,2025-06-30,3982.22,96.36,3.64,False
+6,College of Engineering,20240501,2024,11,Travel,114642.0,105982.26,6276.48,Academic Operating Fund,2025-06-30,8659.74,92.45,7.55,False
+6,College of Engineering,20240601,2024,12,Travel,123558.6,119366.86,3333.7,Academic Operating Fund,2025-06-30,4191.74,96.61,3.39,False
+6,College of Engineering,20240701,2025,1,Personnel,605616.0,599421.7,48037.83,Academic Operating Fund,2025-06-30,6194.3,98.98,1.02,False
+6,College of Engineering,20240801,2025,2,Personnel,638352.0,616442.64,30584.3,Academic Operating Fund,2025-06-30,21909.36,96.57,3.43,False
+6,College of Engineering,20240901,2025,3,Personnel,654720.0,669345.66,53374.95,Academic Operating Fund,2025-06-30,-14625.66,102.23,-2.23,True
+6,College of Engineering,20241001,2025,4,Personnel,662904.0,676590.36,15500.23,Academic Operating Fund,2025-06-30,-13686.36,102.06,-2.06,True
+6,College of Engineering,20241101,2025,5,Personnel,679272.0,666567.89,45251.98,Academic Operating Fund,2025-06-30,12704.11,98.13,1.87,False
+6,College of Engineering,20241201,2025,6,Personnel,712008.0,641044.76,33003.25,Academic Operating Fund,2025-06-30,70963.24,90.03,9.97,False
+6,College of Engineering,20250101,2025,7,Personnel,646536.0,635238.78,29546.55,Academic Operating Fund,2025-06-30,11297.22,98.25,1.75,False
+6,College of Engineering,20250201,2025,8,Personnel,662904.0,644221.02,57951.39,Academic Operating Fund,2025-06-30,18682.98,97.18,2.82,False
+6,College of Engineering,20250301,2025,9,Personnel,687456.0,624252.98,61478.56,Academic Operating Fund,2025-06-30,63203.02,90.81,9.19,False
+6,College of Engineering,20250401,2025,10,Personnel,703824.0,688714.68,29463.91,Academic Operating Fund,2025-06-30,15109.32,97.85,2.15,False
+6,College of Engineering,20250501,2025,11,Personnel,736560.0,730833.78,44534.22,Academic Operating Fund,2025-06-30,5726.22,99.22,0.78,False
+6,College of Engineering,20250601,2025,12,Personnel,793848.0,745805.76,38775.16,Academic Operating Fund,2025-06-30,48042.24,93.95,6.05,False
+6,College of Engineering,20240701,2025,1,Lab Equipment,156288.0,141453.11,4530.37,Academic Operating Fund,2025-06-30,14834.89,90.51,9.49,False
+6,College of Engineering,20240801,2025,2,Lab Equipment,164736.0,154277.03,5423.81,Academic Operating Fund,2025-06-30,10458.97,93.65,6.35,False
+6,College of Engineering,20240901,2025,3,Lab Equipment,168960.0,164465.94,5021.03,Academic Operating Fund,2025-06-30,4494.06,97.34,2.66,False
+6,College of Engineering,20241001,2025,4,Lab Equipment,171072.0,159747.21,3603.19,Academic Operating Fund,2025-06-30,11324.79,93.38,6.62,False
+6,College of Engineering,20241101,2025,5,Lab Equipment,175296.0,165549.99,15615.72,Academic Operating Fund,2025-06-30,9746.01,94.44,5.56,False
+6,College of Engineering,20241201,2025,6,Lab Equipment,183744.0,179232.94,12840.78,Academic Operating Fund,2025-06-30,4511.06,97.54,2.46,False
+6,College of Engineering,20250101,2025,7,Lab Equipment,166848.0,160001.35,14610.2,Academic Operating Fund,2025-06-30,6846.65,95.9,4.1,False
+6,College of Engineering,20250201,2025,8,Lab Equipment,171072.0,169127.3,13936.37,Academic Operating Fund,2025-06-30,1944.7,98.86,1.14,False
+6,College of Engineering,20250301,2025,9,Lab Equipment,177408.0,176859.46,14774.14,Academic Operating Fund,2025-06-30,548.54,99.69,0.31,False
+6,College of Engineering,20250401,2025,10,Lab Equipment,181632.0,189166.33,15857.97,Academic Operating Fund,2025-06-30,-7534.33,104.15,-4.15,True
+6,College of Engineering,20250501,2025,11,Lab Equipment,190080.0,183784.89,15969.9,Academic Operating Fund,2025-06-30,6295.11,96.69,3.31,False
+6,College of Engineering,20250601,2025,12,Lab Equipment,204864.0,204974.45,13967.78,Academic Operating Fund,2025-06-30,-110.45,100.05,-0.05,True
+6,College of Engineering,20240701,2025,1,Research Support,117216.0,111490.25,3315.55,Academic Operating Fund,2025-06-30,5725.75,95.12,4.88,False
+6,College of Engineering,20240801,2025,2,Research Support,123552.0,125630.31,6993.42,Academic Operating Fund,2025-06-30,-2078.31,101.68,-1.68,True
+6,College of Engineering,20240901,2025,3,Research Support,126720.0,127099.1,3330.79,Academic Operating Fund,2025-06-30,-379.1,100.3,-0.3,True
+6,College of Engineering,20241001,2025,4,Research Support,128304.0,129813.85,2910.25,Academic Operating Fund,2025-06-30,-1509.85,101.18,-1.18,True
+6,College of Engineering,20241101,2025,5,Research Support,131472.0,125282.65,11533.56,Academic Operating Fund,2025-06-30,6189.35,95.29,4.71,False
+6,College of Engineering,20241201,2025,6,Research Support,137808.0,135998.98,11826.2,Academic Operating Fund,2025-06-30,1809.02,98.69,1.31,False
+6,College of Engineering,20250101,2025,7,Research Support,125136.0,118646.95,2504.86,Academic Operating Fund,2025-06-30,6489.05,94.81,5.19,False
+6,College of Engineering,20250201,2025,8,Research Support,128304.0,122663.92,4506.06,Academic Operating Fund,2025-06-30,5640.08,95.6,4.4,False
+6,College of Engineering,20250301,2025,9,Research Support,133056.0,128285.47,4931.07,Academic Operating Fund,2025-06-30,4770.53,96.41,3.59,False
+6,College of Engineering,20250401,2025,10,Research Support,136224.0,126063.76,5020.29,Academic Operating Fund,2025-06-30,10160.24,92.54,7.46,False
+6,College of Engineering,20250501,2025,11,Research Support,142560.0,139918.38,4604.37,Academic Operating Fund,2025-06-30,2641.62,98.15,1.85,False
+6,College of Engineering,20250601,2025,12,Research Support,153648.0,145586.37,9777.16,Academic Operating Fund,2025-06-30,8061.63,94.75,5.25,False
+6,College of Engineering,20240701,2025,1,Travel,97680.0,96392.97,4157.43,Academic Operating Fund,2025-06-30,1287.03,98.68,1.32,False
+6,College of Engineering,20240801,2025,2,Travel,102960.0,106201.7,5302.54,Academic Operating Fund,2025-06-30,-3241.7,103.15,-3.15,True
+6,College of Engineering,20240901,2025,3,Travel,105600.0,99871.49,5967.1,Academic Operating Fund,2025-06-30,5728.51,94.58,5.42,False
+6,College of Engineering,20241001,2025,4,Travel,106920.0,98690.59,7374.67,Academic Operating Fund,2025-06-30,8229.41,92.3,7.7,False
+6,College of Engineering,20241101,2025,5,Travel,109560.0,105428.97,5067.82,Academic Operating Fund,2025-06-30,4131.03,96.23,3.77,False
+6,College of Engineering,20241201,2025,6,Travel,114840.0,108987.65,8868.57,Academic Operating Fund,2025-06-30,5852.35,94.9,5.1,False
+6,College of Engineering,20250101,2025,7,Travel,104280.0,99914.33,4690.94,Academic Operating Fund,2025-06-30,4365.67,95.81,4.19,False
+6,College of Engineering,20250201,2025,8,Travel,106920.0,103771.54,6934.52,Academic Operating Fund,2025-06-30,3148.46,97.06,2.94,False
+6,College of Engineering,20250301,2025,9,Travel,110880.0,104873.67,5064.84,Academic Operating Fund,2025-06-30,6006.33,94.58,5.42,False
+6,College of Engineering,20250401,2025,10,Travel,113520.0,116323.92,8819.35,Academic Operating Fund,2025-06-30,-2803.92,102.47,-2.47,True
+6,College of Engineering,20250501,2025,11,Travel,118800.0,113547.93,10204.16,Academic Operating Fund,2025-06-30,5252.07,95.58,4.42,False
+6,College of Engineering,20250601,2025,12,Travel,128040.0,126395.26,8087.85,Academic Operating Fund,2025-06-30,1644.74,98.72,1.28,False
+7,Student Affairs,20230701,2024,1,Personnel,239080.68,231496.13,7509.61,Operating Fund,2025-06-30,7584.55,96.83,3.17,False
+7,Student Affairs,20230801,2024,2,Personnel,252003.96,236350.8,15531.47,Operating Fund,2025-06-30,15653.16,93.79,6.21,False
+7,Student Affairs,20230901,2024,3,Personnel,258465.6,253505.21,15063.9,Operating Fund,2025-06-30,4960.39,98.08,1.92,False
+7,Student Affairs,20231001,2024,4,Personnel,261696.42,242713.38,10131.82,Operating Fund,2025-06-30,18983.04,92.75,7.25,False
+7,Student Affairs,20231101,2024,5,Personnel,268158.06,265885.08,15027.83,Operating Fund,2025-06-30,2272.98,99.15,0.85,False
+7,Student Affairs,20231201,2024,6,Personnel,281081.34,274470.95,10649.9,Operating Fund,2025-06-30,6610.39,97.65,2.35,False
+7,Student Affairs,20240101,2024,7,Personnel,255234.78,251906.05,22828.1,Operating Fund,2025-06-30,3328.73,98.7,1.3,False
+7,Student Affairs,20240201,2024,8,Personnel,261696.42,247550.61,17874.04,Operating Fund,2025-06-30,14145.81,94.59,5.41,False
+7,Student Affairs,20240301,2024,9,Personnel,271388.88,260026.29,24358.19,Operating Fund,2025-06-30,11362.59,95.81,4.19,False
+7,Student Affairs,20240401,2024,10,Personnel,277850.52,261219.4,8611.85,Operating Fund,2025-06-30,16631.12,94.01,5.99,False
+7,Student Affairs,20240501,2024,11,Personnel,290773.8,258657.87,24460.18,Operating Fund,2025-06-30,32115.93,88.96,11.04,False
+7,Student Affairs,20240601,2024,12,Personnel,313389.54,301651.32,9957.71,Operating Fund,2025-06-30,11738.22,96.25,3.75,False
+7,Student Affairs,20230701,2024,1,Student Programming,61698.24,59125.96,2016.01,Operating Fund,2025-06-30,2572.28,95.83,4.17,False
+7,Student Affairs,20230801,2024,2,Student Programming,65033.28,62210.53,4875.43,Operating Fund,2025-06-30,2822.75,95.66,4.34,False
+7,Student Affairs,20230901,2024,3,Student Programming,66700.8,59504.62,5791.08,Operating Fund,2025-06-30,7196.18,89.21,10.79,False
+7,Student Affairs,20231001,2024,4,Student Programming,67534.56,66782.06,3854.62,Operating Fund,2025-06-30,752.5,98.89,1.11,False
+7,Student Affairs,20231101,2024,5,Student Programming,69202.08,64756.9,5573.94,Operating Fund,2025-06-30,4445.18,93.58,6.42,False
+7,Student Affairs,20231201,2024,6,Student Programming,72537.12,70228.08,1658.81,Operating Fund,2025-06-30,2309.04,96.82,3.18,False
+7,Student Affairs,20240101,2024,7,Student Programming,65867.04,63382.81,4040.78,Operating Fund,2025-06-30,2484.23,96.23,3.77,False
+7,Student Affairs,20240201,2024,8,Student Programming,67534.56,62454.3,1464.66,Operating Fund,2025-06-30,5080.26,92.48,7.52,False
+7,Student Affairs,20240301,2024,9,Student Programming,70035.84,66592.35,4825.05,Operating Fund,2025-06-30,3443.49,95.08,4.92,False
+7,Student Affairs,20240401,2024,10,Student Programming,71703.36,71757.03,3217.82,Operating Fund,2025-06-30,-53.67,100.07,-0.07,True
+7,Student Affairs,20240501,2024,11,Student Programming,75038.4,71615.32,6242.64,Operating Fund,2025-06-30,3423.08,95.44,4.56,False
+7,Student Affairs,20240601,2024,12,Student Programming,80874.72,77830.84,3381.86,Operating Fund,2025-06-30,3043.88,96.24,3.76,False
+7,Student Affairs,20230701,2024,1,Counseling Services,46273.68,42984.97,2274.26,Operating Fund,2025-06-30,3288.71,92.89,7.11,False
+7,Student Affairs,20230801,2024,2,Counseling Services,48774.96,47248.87,2437.92,Operating Fund,2025-06-30,1526.09,96.87,3.13,False
+7,Student Affairs,20230901,2024,3,Counseling Services,50025.6,49158.84,1944.2,Operating Fund,2025-06-30,866.76,98.27,1.73,False
+7,Student Affairs,20231001,2024,4,Counseling Services,50650.92,49443.43,1753.61,Operating Fund,2025-06-30,1207.49,97.62,2.38,False
+7,Student Affairs,20231101,2024,5,Counseling Services,51901.56,47978.44,3830.25,Operating Fund,2025-06-30,3923.12,92.44,7.56,False
+7,Student Affairs,20231201,2024,6,Counseling Services,54402.84,55666.66,4848.25,Operating Fund,2025-06-30,-1263.82,102.32,-2.32,True
+7,Student Affairs,20240101,2024,7,Counseling Services,49400.28,43664.03,1176.36,Operating Fund,2025-06-30,5736.25,88.39,11.61,False
+7,Student Affairs,20240201,2024,8,Counseling Services,50650.92,48145.1,3204.73,Operating Fund,2025-06-30,2505.82,95.05,4.95,False
+7,Student Affairs,20240301,2024,9,Counseling Services,52526.88,49296.12,1236.77,Operating Fund,2025-06-30,3230.76,93.85,6.15,False
+7,Student Affairs,20240401,2024,10,Counseling Services,53777.52,50909.51,1759.55,Operating Fund,2025-06-30,2868.01,94.67,5.33,False
+7,Student Affairs,20240501,2024,11,Counseling Services,56278.8,56835.18,2204.23,Operating Fund,2025-06-30,-556.38,100.99,-0.99,True
+7,Student Affairs,20240601,2024,12,Counseling Services,60656.04,55849.46,3860.69,Operating Fund,2025-06-30,4806.58,92.08,7.92,False
+7,Student Affairs,20230701,2024,1,Athletics Support,38561.4,37678.41,2667.57,Operating Fund,2025-06-30,882.99,97.71,2.29,False
+7,Student Affairs,20230801,2024,2,Athletics Support,40645.8,37836.77,3608.6,Operating Fund,2025-06-30,2809.03,93.09,6.91,False
+7,Student Affairs,20230901,2024,3,Athletics Support,41688.0,38490.77,1147.54,Operating Fund,2025-06-30,3197.23,92.33,7.67,False
+7,Student Affairs,20231001,2024,4,Athletics Support,42209.1,41544.45,2874.85,Operating Fund,2025-06-30,664.65,98.43,1.57,False
+7,Student Affairs,20231101,2024,5,Athletics Support,43251.3,41600.98,1731.78,Operating Fund,2025-06-30,1650.32,96.18,3.82,False
+7,Student Affairs,20231201,2024,6,Athletics Support,45335.7,41034.6,2744.58,Operating Fund,2025-06-30,4301.1,90.51,9.49,False
+7,Student Affairs,20240101,2024,7,Athletics Support,41166.9,40513.13,1439.82,Operating Fund,2025-06-30,653.77,98.41,1.59,False
+7,Student Affairs,20240201,2024,8,Athletics Support,42209.1,39643.73,2681.54,Operating Fund,2025-06-30,2565.37,93.92,6.08,False
+7,Student Affairs,20240301,2024,9,Athletics Support,43772.4,42380.27,1084.2,Operating Fund,2025-06-30,1392.13,96.82,3.18,False
+7,Student Affairs,20240401,2024,10,Athletics Support,44814.6,43898.77,1505.82,Operating Fund,2025-06-30,915.83,97.96,2.04,False
+7,Student Affairs,20240501,2024,11,Athletics Support,46899.0,44624.21,2321.51,Operating Fund,2025-06-30,2274.79,95.15,4.85,False
+7,Student Affairs,20240601,2024,12,Athletics Support,50546.7,48404.4,4018.0,Operating Fund,2025-06-30,2142.3,95.76,4.24,False
+7,Student Affairs,20240701,2025,1,Personnel,247752.0,230273.58,12870.93,Operating Fund,2025-06-30,17478.42,92.95,7.05,False
+7,Student Affairs,20240801,2025,2,Personnel,261144.0,256213.18,14191.06,Operating Fund,2025-06-30,4930.82,98.11,1.89,False
+7,Student Affairs,20240901,2025,3,Personnel,267840.0,252163.1,10887.16,Operating Fund,2025-06-30,15676.9,94.15,5.85,False
+7,Student Affairs,20241001,2025,4,Personnel,271188.0,253080.85,15548.41,Operating Fund,2025-06-30,18107.15,93.32,6.68,False
+7,Student Affairs,20241101,2025,5,Personnel,277884.0,287755.12,15257.3,Operating Fund,2025-06-30,-9871.12,103.55,-3.55,True
+7,Student Affairs,20241201,2025,6,Personnel,291276.0,285463.83,23112.57,Operating Fund,2025-06-30,5812.17,98.0,2.0,False
+7,Student Affairs,20250101,2025,7,Personnel,264492.0,266189.79,17110.95,Operating Fund,2025-06-30,-1697.79,100.64,-0.64,True
+7,Student Affairs,20250201,2025,8,Personnel,271188.0,253810.59,21654.53,Operating Fund,2025-06-30,17377.41,93.59,6.41,False
+7,Student Affairs,20250301,2025,9,Personnel,281232.0,300861.02,17775.24,Operating Fund,2025-06-30,-19629.02,106.98,-6.98,True
+7,Student Affairs,20250401,2025,10,Personnel,287928.0,284530.31,12179.18,Operating Fund,2025-06-30,3397.69,98.82,1.18,False
+7,Student Affairs,20250501,2025,11,Personnel,301320.0,304101.66,13062.39,Operating Fund,2025-06-30,-2781.66,100.92,-0.92,True
+7,Student Affairs,20250601,2025,12,Personnel,324756.0,306596.98,14145.16,Operating Fund,2025-06-30,18159.02,94.41,5.59,False
+7,Student Affairs,20240701,2025,1,Student Programming,63936.0,60548.79,5588.24,Operating Fund,2025-06-30,3387.21,94.7,5.3,False
+7,Student Affairs,20240801,2025,2,Student Programming,67392.0,68178.61,5023.51,Operating Fund,2025-06-30,-786.61,101.17,-1.17,True
+7,Student Affairs,20240901,2025,3,Student Programming,69120.0,68426.93,2501.66,Operating Fund,2025-06-30,693.07,99.0,1.0,False
+7,Student Affairs,20241001,2025,4,Student Programming,69984.0,66355.89,6298.49,Operating Fund,2025-06-30,3628.11,94.82,5.18,False
+7,Student Affairs,20241101,2025,5,Student Programming,71712.0,73873.39,5625.97,Operating Fund,2025-06-30,-2161.39,103.01,-3.01,True
+7,Student Affairs,20241201,2025,6,Student Programming,75168.0,71130.97,2697.44,Operating Fund,2025-06-30,4037.03,94.63,5.37,False
+7,Student Affairs,20250101,2025,7,Student Programming,68256.0,69846.93,4231.55,Operating Fund,2025-06-30,-1590.93,102.33,-2.33,True
+7,Student Affairs,20250201,2025,8,Student Programming,69984.0,71198.1,3535.12,Operating Fund,2025-06-30,-1214.1,101.73,-1.73,True
+7,Student Affairs,20250301,2025,9,Student Programming,72576.0,70223.53,6021.27,Operating Fund,2025-06-30,2352.47,96.76,3.24,False
+7,Student Affairs,20250401,2025,10,Student Programming,74304.0,72266.82,6631.44,Operating Fund,2025-06-30,2037.18,97.26,2.74,False
+7,Student Affairs,20250501,2025,11,Student Programming,77760.0,74991.16,5032.75,Operating Fund,2025-06-30,2768.84,96.44,3.56,False
+7,Student Affairs,20250601,2025,12,Student Programming,83808.0,79678.85,4400.5,Operating Fund,2025-06-30,4129.15,95.07,4.93,False
+7,Student Affairs,20240701,2025,1,Counseling Services,47952.0,46240.32,1267.8,Operating Fund,2025-06-30,1711.68,96.43,3.57,False
+7,Student Affairs,20240801,2025,2,Counseling Services,50544.0,49552.57,2116.71,Operating Fund,2025-06-30,991.43,98.04,1.96,False
+7,Student Affairs,20240901,2025,3,Counseling Services,51840.0,50225.0,1700.51,Operating Fund,2025-06-30,1615.0,96.88,3.12,False
+7,Student Affairs,20241001,2025,4,Counseling Services,52488.0,50751.25,3832.9,Operating Fund,2025-06-30,1736.75,96.69,3.31,False
+7,Student Affairs,20241101,2025,5,Counseling Services,53784.0,53412.59,1952.35,Operating Fund,2025-06-30,371.41,99.31,0.69,False
+7,Student Affairs,20241201,2025,6,Counseling Services,56376.0,56768.02,4142.95,Operating Fund,2025-06-30,-392.02,100.7,-0.7,True
+7,Student Affairs,20250101,2025,7,Counseling Services,51192.0,50551.34,4125.41,Operating Fund,2025-06-30,640.66,98.75,1.25,False
+7,Student Affairs,20250201,2025,8,Counseling Services,52488.0,48850.09,4416.71,Operating Fund,2025-06-30,3637.91,93.07,6.93,False
+7,Student Affairs,20250301,2025,9,Counseling Services,54432.0,52969.13,3112.98,Operating Fund,2025-06-30,1462.87,97.31,2.69,False
+7,Student Affairs,20250401,2025,10,Counseling Services,55728.0,56054.45,4607.7,Operating Fund,2025-06-30,-326.45,100.59,-0.59,True
+7,Student Affairs,20250501,2025,11,Counseling Services,58320.0,56798.36,3238.22,Operating Fund,2025-06-30,1521.64,97.39,2.61,False
+7,Student Affairs,20250601,2025,12,Counseling Services,62856.0,62866.86,1864.27,Operating Fund,2025-06-30,-10.86,100.02,-0.02,True
+7,Student Affairs,20240701,2025,1,Athletics Support,39960.0,39583.4,854.34,Operating Fund,2025-06-30,376.6,99.06,0.94,False
+7,Student Affairs,20240801,2025,2,Athletics Support,42120.0,44494.38,3559.96,Operating Fund,2025-06-30,-2374.38,105.64,-5.64,True
+7,Student Affairs,20240901,2025,3,Athletics Support,43200.0,41144.95,1909.96,Operating Fund,2025-06-30,2055.05,95.24,4.76,False
+7,Student Affairs,20241001,2025,4,Athletics Support,43740.0,40890.2,2105.55,Operating Fund,2025-06-30,2849.8,93.48,6.52,False
+7,Student Affairs,20241101,2025,5,Athletics Support,44820.0,42537.3,3605.37,Operating Fund,2025-06-30,2282.7,94.91,5.09,False
+7,Student Affairs,20241201,2025,6,Athletics Support,46980.0,47915.78,3208.91,Operating Fund,2025-06-30,-935.78,101.99,-1.99,True
+7,Student Affairs,20250101,2025,7,Athletics Support,42660.0,42511.34,1863.28,Operating Fund,2025-06-30,148.66,99.65,0.35,False
+7,Student Affairs,20250201,2025,8,Athletics Support,43740.0,41448.99,1957.4,Operating Fund,2025-06-30,2291.01,94.76,5.24,False
+7,Student Affairs,20250301,2025,9,Athletics Support,45360.0,42914.78,1753.43,Operating Fund,2025-06-30,2445.22,94.61,5.39,False
+7,Student Affairs,20250401,2025,10,Athletics Support,46440.0,45081.08,3933.42,Operating Fund,2025-06-30,1358.92,97.07,2.93,False
+7,Student Affairs,20250501,2025,11,Athletics Support,48600.0,47527.65,4361.42,Operating Fund,2025-06-30,1072.35,97.79,2.21,False
+7,Student Affairs,20250601,2025,12,Athletics Support,52380.0,53150.15,3971.15,Operating Fund,2025-06-30,-770.15,101.47,-1.47,True
+8,Research Administration,20230701,2024,1,Personnel,203661.32,180698.99,8035.88,Operating Fund,2025-06-30,22962.33,88.73,11.27,False
+8,Research Administration,20230801,2024,2,Personnel,214670.04,193412.84,13665.43,Operating Fund,2025-06-30,21257.2,90.1,9.9,False
+8,Research Administration,20230901,2024,3,Personnel,220174.4,202145.15,12844.97,Operating Fund,2025-06-30,18029.25,91.81,8.19,False
+8,Research Administration,20231001,2024,4,Personnel,222926.58,204955.93,9310.23,Operating Fund,2025-06-30,17970.65,91.94,8.06,False
+8,Research Administration,20231101,2024,5,Personnel,228430.94,201470.19,6797.59,Operating Fund,2025-06-30,26960.75,88.2,11.8,False
+8,Research Administration,20231201,2024,6,Personnel,239439.66,212711.25,14490.79,Operating Fund,2025-06-30,26728.41,88.84,11.16,False
+8,Research Administration,20240101,2024,7,Personnel,217422.22,189313.81,8425.84,Operating Fund,2025-06-30,28108.41,87.07,12.93,False
+8,Research Administration,20240201,2024,8,Personnel,222926.58,195202.64,13229.08,Operating Fund,2025-06-30,27723.94,87.56,12.44,False
+8,Research Administration,20240301,2024,9,Personnel,231183.12,217692.0,15292.86,Operating Fund,2025-06-30,13491.12,94.16,5.84,False
+8,Research Administration,20240401,2024,10,Personnel,236687.48,203221.98,4851.92,Operating Fund,2025-06-30,33465.5,85.86,14.14,False
+8,Research Administration,20240501,2024,11,Personnel,247696.2,220404.95,15863.92,Operating Fund,2025-06-30,27291.25,88.98,11.02,False
+8,Research Administration,20240601,2024,12,Personnel,266961.46,241971.37,8756.72,Operating Fund,2025-06-30,24990.09,90.64,9.36,False
+8,Research Administration,20230701,2024,1,Compliance,52557.76,47775.91,1156.22,Operating Fund,2025-06-30,4781.85,90.9,9.1,False
+8,Research Administration,20230801,2024,2,Compliance,55398.72,47038.79,3920.18,Operating Fund,2025-06-30,8359.93,84.91,15.09,False
+8,Research Administration,20230901,2024,3,Compliance,56819.2,49547.4,2112.88,Operating Fund,2025-06-30,7271.8,87.2,12.8,False
+8,Research Administration,20231001,2024,4,Compliance,57529.44,52491.81,2707.54,Operating Fund,2025-06-30,5037.63,91.24,8.76,False
+8,Research Administration,20231101,2024,5,Compliance,58949.92,54324.48,2903.65,Operating Fund,2025-06-30,4625.44,92.15,7.85,False
+8,Research Administration,20231201,2024,6,Compliance,61790.88,55707.78,5360.3,Operating Fund,2025-06-30,6083.1,90.16,9.84,False
+8,Research Administration,20240101,2024,7,Compliance,56108.96,51767.53,2362.22,Operating Fund,2025-06-30,4341.43,92.26,7.74,False
+8,Research Administration,20240201,2024,8,Compliance,57529.44,50720.52,2196.49,Operating Fund,2025-06-30,6808.92,88.16,11.84,False
+8,Research Administration,20240301,2024,9,Compliance,59660.16,51755.31,3349.53,Operating Fund,2025-06-30,7904.85,86.75,13.25,False
+8,Research Administration,20240401,2024,10,Compliance,61080.64,57228.89,2153.1,Operating Fund,2025-06-30,3851.75,93.69,6.31,False
+8,Research Administration,20240501,2024,11,Compliance,63921.6,55798.27,5505.17,Operating Fund,2025-06-30,8123.33,87.29,12.71,False
+8,Research Administration,20240601,2024,12,Compliance,68893.28,61508.12,1918.36,Operating Fund,2025-06-30,7385.16,89.28,10.72,False
+8,Research Administration,20230701,2024,1,Grant Systems,39418.32,37716.8,1686.05,Operating Fund,2025-06-30,1701.52,95.68,4.32,False
+8,Research Administration,20230801,2024,2,Grant Systems,41549.04,35735.49,2928.37,Operating Fund,2025-06-30,5813.55,86.01,13.99,False
+8,Research Administration,20230901,2024,3,Grant Systems,42614.4,40940.42,3453.58,Operating Fund,2025-06-30,1673.98,96.07,3.93,False
+8,Research Administration,20231001,2024,4,Grant Systems,43147.08,35672.29,934.8,Operating Fund,2025-06-30,7474.79,82.68,17.32,False
+8,Research Administration,20231101,2024,5,Grant Systems,44212.44,40583.88,891.77,Operating Fund,2025-06-30,3628.56,91.79,8.21,False
+8,Research Administration,20231201,2024,6,Grant Systems,46343.16,41670.9,3585.46,Operating Fund,2025-06-30,4672.26,89.92,10.08,False
+8,Research Administration,20240101,2024,7,Grant Systems,42081.72,38501.89,2432.19,Operating Fund,2025-06-30,3579.83,91.49,8.51,False
+8,Research Administration,20240201,2024,8,Grant Systems,43147.08,39396.32,3132.57,Operating Fund,2025-06-30,3750.76,91.31,8.69,False
+8,Research Administration,20240301,2024,9,Grant Systems,44745.12,38525.14,3252.21,Operating Fund,2025-06-30,6219.98,86.1,13.9,False
+8,Research Administration,20240401,2024,10,Grant Systems,45810.48,41873.18,1356.09,Operating Fund,2025-06-30,3937.3,91.41,8.59,False
+8,Research Administration,20240501,2024,11,Grant Systems,47941.2,40540.4,2274.93,Operating Fund,2025-06-30,7400.8,84.56,15.44,False
+8,Research Administration,20240601,2024,12,Grant Systems,51669.96,45591.89,2717.66,Operating Fund,2025-06-30,6078.07,88.24,11.76,False
+8,Research Administration,20230701,2024,1,Training,32848.6,29398.74,880.61,Operating Fund,2025-06-30,3449.86,89.5,10.5,False
+8,Research Administration,20230801,2024,2,Training,34624.2,30371.59,955.19,Operating Fund,2025-06-30,4252.61,87.72,12.28,False
+8,Research Administration,20230901,2024,3,Training,35512.0,31866.2,1027.96,Operating Fund,2025-06-30,3645.8,89.73,10.27,False
+8,Research Administration,20231001,2024,4,Training,35955.9,34317.48,2450.12,Operating Fund,2025-06-30,1638.42,95.44,4.56,False
+8,Research Administration,20231101,2024,5,Training,36843.7,33417.09,2543.5,Operating Fund,2025-06-30,3426.61,90.7,9.3,False
+8,Research Administration,20231201,2024,6,Training,38619.3,34333.2,1109.58,Operating Fund,2025-06-30,4286.1,88.9,11.1,False
+8,Research Administration,20240101,2024,7,Training,35068.1,32020.48,953.55,Operating Fund,2025-06-30,3047.62,91.31,8.69,False
+8,Research Administration,20240201,2024,8,Training,35955.9,33560.26,1145.71,Operating Fund,2025-06-30,2395.64,93.34,6.66,False
+8,Research Administration,20240301,2024,9,Training,37287.6,31137.86,852.19,Operating Fund,2025-06-30,6149.74,83.51,16.49,False
+8,Research Administration,20240401,2024,10,Training,38175.4,33125.66,1721.48,Operating Fund,2025-06-30,5049.74,86.77,13.23,False
+8,Research Administration,20240501,2024,11,Training,39951.0,35768.74,1633.76,Operating Fund,2025-06-30,4182.26,89.53,10.47,False
+8,Research Administration,20240601,2024,12,Training,43058.3,37973.19,1964.89,Operating Fund,2025-06-30,5085.11,88.19,11.81,False
+8,Research Administration,20240701,2025,1,Personnel,211048.0,202645.14,11149.54,Operating Fund,2025-06-30,8402.86,96.02,3.98,False
+8,Research Administration,20240801,2025,2,Personnel,222456.0,209246.27,13158.09,Operating Fund,2025-06-30,13209.73,94.06,5.94,False
+8,Research Administration,20240901,2025,3,Personnel,228160.0,212579.77,14132.83,Operating Fund,2025-06-30,15580.23,93.17,6.83,False
+8,Research Administration,20241001,2025,4,Personnel,231012.0,208616.7,10971.96,Operating Fund,2025-06-30,22395.3,90.31,9.69,False
+8,Research Administration,20241101,2025,5,Personnel,236716.0,215617.63,14890.87,Operating Fund,2025-06-30,21098.37,91.09,8.91,False
+8,Research Administration,20241201,2025,6,Personnel,248124.0,227833.11,13719.23,Operating Fund,2025-06-30,20290.89,91.82,8.18,False
+8,Research Administration,20250101,2025,7,Personnel,225308.0,195281.3,5209.27,Operating Fund,2025-06-30,30026.7,86.67,13.33,False
+8,Research Administration,20250201,2025,8,Personnel,231012.0,212333.34,7256.94,Operating Fund,2025-06-30,18678.66,91.91,8.09,False
+8,Research Administration,20250301,2025,9,Personnel,239568.0,215192.37,16023.43,Operating Fund,2025-06-30,24375.63,89.83,10.17,False
+8,Research Administration,20250401,2025,10,Personnel,245272.0,225314.07,8004.04,Operating Fund,2025-06-30,19957.93,91.86,8.14,False
+8,Research Administration,20250501,2025,11,Personnel,256680.0,243907.05,16676.71,Operating Fund,2025-06-30,12772.95,95.02,4.98,False
+8,Research Administration,20250601,2025,12,Personnel,276644.0,255273.26,10328.98,Operating Fund,2025-06-30,21370.74,92.28,7.72,False
+8,Research Administration,20240701,2025,1,Compliance,54464.0,48639.99,2664.92,Operating Fund,2025-06-30,5824.01,89.31,10.69,False
+8,Research Administration,20240801,2025,2,Compliance,57408.0,51159.71,2695.86,Operating Fund,2025-06-30,6248.29,89.12,10.88,False
+8,Research Administration,20240901,2025,3,Compliance,58880.0,54297.62,4693.33,Operating Fund,2025-06-30,4582.38,92.22,7.78,False
+8,Research Administration,20241001,2025,4,Compliance,59616.0,55463.46,4343.65,Operating Fund,2025-06-30,4152.54,93.03,6.97,False
+8,Research Administration,20241101,2025,5,Compliance,61088.0,55087.25,3149.98,Operating Fund,2025-06-30,6000.75,90.18,9.82,False
+8,Research Administration,20241201,2025,6,Compliance,64032.0,62263.3,2312.03,Operating Fund,2025-06-30,1768.7,97.24,2.76,False
+8,Research Administration,20250101,2025,7,Compliance,58144.0,55865.68,2634.68,Operating Fund,2025-06-30,2278.32,96.08,3.92,False
+8,Research Administration,20250201,2025,8,Compliance,59616.0,53998.38,5029.7,Operating Fund,2025-06-30,5617.62,90.58,9.42,False
+8,Research Administration,20250301,2025,9,Compliance,61824.0,54979.85,2277.92,Operating Fund,2025-06-30,6844.15,88.93,11.07,False
+8,Research Administration,20250401,2025,10,Compliance,63296.0,59009.76,3456.69,Operating Fund,2025-06-30,4286.24,93.23,6.77,False
+8,Research Administration,20250501,2025,11,Compliance,66240.0,58843.78,4697.88,Operating Fund,2025-06-30,7396.22,88.83,11.17,False
+8,Research Administration,20250601,2025,12,Compliance,71392.0,67511.22,6083.17,Operating Fund,2025-06-30,3880.78,94.56,5.44,False
+8,Research Administration,20240701,2025,1,Grant Systems,40848.0,40448.38,2053.56,Operating Fund,2025-06-30,399.62,99.02,0.98,False
+8,Research Administration,20240801,2025,2,Grant Systems,43056.0,40335.62,3091.11,Operating Fund,2025-06-30,2720.38,93.68,6.32,False
+8,Research Administration,20240901,2025,3,Grant Systems,44160.0,37609.85,1077.1,Operating Fund,2025-06-30,6550.15,85.17,14.83,False
+8,Research Administration,20241001,2025,4,Grant Systems,44712.0,44797.43,1790.95,Operating Fund,2025-06-30,-85.43,100.19,-0.19,True
+8,Research Administration,20241101,2025,5,Grant Systems,45816.0,40807.85,3220.08,Operating Fund,2025-06-30,5008.15,89.07,10.93,False
+8,Research Administration,20241201,2025,6,Grant Systems,48024.0,42235.67,3133.31,Operating Fund,2025-06-30,5788.33,87.95,12.05,False
+8,Research Administration,20250101,2025,7,Grant Systems,43608.0,39582.75,3066.71,Operating Fund,2025-06-30,4025.25,90.77,9.23,False
+8,Research Administration,20250201,2025,8,Grant Systems,44712.0,41686.92,3363.5,Operating Fund,2025-06-30,3025.08,93.23,6.77,False
+8,Research Administration,20250301,2025,9,Grant Systems,46368.0,43003.59,3872.49,Operating Fund,2025-06-30,3364.41,92.74,7.26,False
+8,Research Administration,20250401,2025,10,Grant Systems,47472.0,43448.64,4010.01,Operating Fund,2025-06-30,4023.36,91.52,8.48,False
+8,Research Administration,20250501,2025,11,Grant Systems,49680.0,43216.33,3899.78,Operating Fund,2025-06-30,6463.67,86.99,13.01,False
+8,Research Administration,20250601,2025,12,Grant Systems,53544.0,50666.97,4804.29,Operating Fund,2025-06-30,2877.03,94.63,5.37,False
+8,Research Administration,20240701,2025,1,Training,34040.0,33589.69,1455.39,Operating Fund,2025-06-30,450.31,98.68,1.32,False
+8,Research Administration,20240801,2025,2,Training,35880.0,32273.29,2894.95,Operating Fund,2025-06-30,3606.71,89.95,10.05,False
+8,Research Administration,20240901,2025,3,Training,36800.0,30147.97,1497.0,Operating Fund,2025-06-30,6652.03,81.92,18.08,False
+8,Research Administration,20241001,2025,4,Training,37260.0,35775.43,1302.18,Operating Fund,2025-06-30,1484.57,96.02,3.98,False
+8,Research Administration,20241101,2025,5,Training,38180.0,35585.75,2347.61,Operating Fund,2025-06-30,2594.25,93.21,6.79,False
+8,Research Administration,20241201,2025,6,Training,40020.0,35597.96,1320.24,Operating Fund,2025-06-30,4422.04,88.95,11.05,False
+8,Research Administration,20250101,2025,7,Training,36340.0,33070.52,2718.22,Operating Fund,2025-06-30,3269.48,91.0,9.0,False
+8,Research Administration,20250201,2025,8,Training,37260.0,34857.27,1735.42,Operating Fund,2025-06-30,2402.73,93.55,6.45,False
+8,Research Administration,20250301,2025,9,Training,38640.0,35922.22,1219.83,Operating Fund,2025-06-30,2717.78,92.97,7.03,False
+8,Research Administration,20250401,2025,10,Training,39560.0,36283.74,1096.25,Operating Fund,2025-06-30,3276.26,91.72,8.28,False
+8,Research Administration,20250501,2025,11,Training,41400.0,38925.38,3149.13,Operating Fund,2025-06-30,2474.62,94.02,5.98,False
+8,Research Administration,20250601,2025,12,Training,44620.0,41170.79,1893.09,Operating Fund,2025-06-30,3449.21,92.27,7.73,False

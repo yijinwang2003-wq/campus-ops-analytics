@@ -1,0 +1,109 @@
+work_order_number,department_id,department_name,request_date,request_date_key,completed_date,completed_date_key,building_name,request_type,priority,status,estimated_cost,actual_cost,assigned_team
+WO-70001,1,Finance & Accounting,2025-01-22,20250122,2025-02-05,20250205,Library,General Repair,Low,Completed,7280.9,7147.6,Building Services
+WO-70002,1,Finance & Accounting,2025-02-27,20250227,2025-03-14,20250314,Residence Hall A,HVAC,Low,Completed,11408.83,12741.7,Electrical
+WO-70003,1,Finance & Accounting,2024-07-28,20240728,2024-08-04,20240804,Residence Hall A,Life Safety,Medium,Completed,2124.55,2035.56,Electrical
+WO-70004,1,Finance & Accounting,2024-09-07,20240907,,,Engineering Complex,Life Safety,Medium,Open,14484.88,,Grounds
+WO-70005,1,Finance & Accounting,2024-09-20,20240920,,,Central Plant,Custodial,Medium,Open,5564.65,,Grounds
+WO-70006,1,Finance & Accounting,2024-12-14,20241214,,,Central Plant,Custodial,Medium,Open,5749.35,,Electrical
+WO-70007,1,Finance & Accounting,2025-04-05,20250405,2025-04-19,20250419,Residence Hall A,Life Safety,Low,Completed,17512.81,21180.83,Building Services
+WO-70008,1,Finance & Accounting,2025-02-27,20250227,2025-03-13,20250313,Science Center,Life Safety,Low,Completed,3614.71,3885.95,Grounds
+WO-70009,1,Finance & Accounting,2025-06-18,20250618,2025-06-30,20250630,Library,HVAC,Low,Completed,7650.14,9195.07,Life Safety
+WO-70010,1,Finance & Accounting,2025-04-01,20250401,2025-04-14,20250414,Student Union,General Repair,Low,Completed,4617.69,4347.11,Grounds
+WO-70011,2,Human Resources,2024-07-01,20240701,2024-07-04,20240704,Administration Hall,HVAC,High,Completed,370.2,442.93,Building Services
+WO-70012,2,Human Resources,2025-04-22,20250422,2025-05-02,20250502,Residence Hall A,Plumbing,Medium,Completed,16095.98,15150.12,Building Services
+WO-70013,2,Human Resources,2024-10-28,20241028,2024-11-06,20241106,Central Plant,Custodial,Medium,Completed,1334.39,1278.58,Life Safety
+WO-70014,2,Human Resources,2025-02-06,20250206,2025-02-16,20250216,Science Center,Custodial,Medium,Completed,12569.52,15273.39,Mechanical
+WO-70015,2,Human Resources,2025-06-17,20250617,,,Engineering Complex,HVAC,Low,Open,3448.06,,Grounds
+WO-70016,2,Human Resources,2024-12-08,20241208,2024-12-17,20241217,Student Union,Plumbing,Medium,Completed,9685.08,11900.34,Grounds
+WO-70017,2,Human Resources,2024-08-18,20240818,2024-08-24,20240824,Engineering Complex,HVAC,High,Completed,11699.76,13148.03,Electrical
+WO-70018,2,Human Resources,2025-03-22,20250322,2025-03-31,20250331,Library,Electrical,Medium,Completed,10952.01,12453.69,Life Safety
+WO-70019,2,Human Resources,2025-04-02,20250402,2025-04-12,20250412,Residence Hall A,Plumbing,Medium,Completed,7230.31,6747.4,Life Safety
+WO-70020,2,Human Resources,2024-11-11,20241111,2024-11-25,20241125,Residence Hall A,Custodial,Low,Completed,3121.76,2686.7,Electrical
+WO-70021,3,Facilities Management,2024-10-02,20241002,2024-10-07,20241007,Science Center,Electrical,High,Completed,15013.66,15770.27,Grounds
+WO-70022,3,Facilities Management,2025-05-20,20250520,2025-05-23,20250523,Engineering Complex,Electrical,Critical,Completed,3346.0,3619.37,Life Safety
+WO-70023,3,Facilities Management,2024-08-09,20240809,2024-08-21,20240821,Engineering Complex,HVAC,Low,Completed,12643.45,13138.84,Life Safety
+WO-70024,3,Facilities Management,2024-08-20,20240820,2024-09-01,20240901,Library,Electrical,Low,Completed,15711.37,14786.23,Building Services
+WO-70025,3,Facilities Management,2024-07-31,20240731,2024-08-05,20240805,Residence Hall A,Life Safety,High,Completed,7088.33,8046.11,Life Safety
+WO-70026,3,Facilities Management,2024-10-31,20241031,2024-11-15,20241115,Administration Hall,Plumbing,Low,Completed,12959.53,15606.53,Building Services
+WO-70027,3,Facilities Management,2024-09-23,20240923,2024-10-02,20241002,Library,Plumbing,Medium,Completed,15716.24,14828.58,Life Safety
+WO-70028,3,Facilities Management,2024-09-27,20240927,2024-10-05,20241005,Library,General Repair,Medium,Completed,12856.4,11814.67,Mechanical
+WO-70029,3,Facilities Management,2024-08-09,20240809,2024-08-21,20240821,Administration Hall,Custodial,Low,Completed,5406.7,5825.08,Life Safety
+WO-70030,3,Facilities Management,2025-01-29,20250129,2025-02-11,20250211,Science Center,General Repair,Low,Completed,16891.2,18013.57,Life Safety
+WO-70031,3,Facilities Management,2025-05-28,20250528,2025-05-30,20250530,Residence Hall A,Plumbing,Critical,Completed,6713.09,6897.74,Building Services
+WO-70032,3,Facilities Management,2025-05-23,20250523,2025-06-01,20250601,Science Center,Life Safety,Medium,Completed,16159.36,17198.85,Grounds
+WO-70033,3,Facilities Management,2025-03-01,20250301,2025-03-10,20250310,Engineering Complex,HVAC,Medium,Completed,8756.15,8261.39,Building Services
+WO-70034,3,Facilities Management,2024-09-12,20240912,2024-09-22,20240922,Science Center,HVAC,Medium,Completed,13110.59,13154.54,Electrical
+WO-70035,3,Facilities Management,2024-11-10,20241110,2024-11-17,20241117,Science Center,Plumbing,Medium,Completed,11262.05,9946.79,Electrical
+WO-70036,3,Facilities Management,2024-12-09,20241209,2024-12-17,20241217,Library,HVAC,Medium,Completed,4925.86,4980.78,Life Safety
+WO-70037,3,Facilities Management,2024-08-25,20240825,2024-09-04,20240904,Student Union,Life Safety,Medium,Completed,8675.18,9345.23,Building Services
+WO-70038,3,Facilities Management,2024-09-24,20240924,2024-10-09,20241009,Library,Plumbing,Low,Completed,6004.28,5499.92,Building Services
+WO-70039,3,Facilities Management,2025-05-10,20250510,2025-05-13,20250513,Science Center,Plumbing,Critical,Completed,13079.16,11398.33,Electrical
+WO-70040,3,Facilities Management,2025-02-01,20250201,2025-02-08,20250208,Engineering Complex,General Repair,Medium,Completed,682.68,689.01,Grounds
+WO-70041,3,Facilities Management,2024-11-12,20241112,2024-11-16,20241116,Student Union,HVAC,High,Completed,17199.57,15920.88,Building Services
+WO-70042,3,Facilities Management,2025-03-27,20250327,2025-04-09,20250409,Administration Hall,Life Safety,Low,Completed,2218.32,2184.3,Life Safety
+WO-70043,3,Facilities Management,2025-04-14,20250414,2025-04-27,20250427,Student Union,Life Safety,Low,Completed,8551.11,10514.65,Building Services
+WO-70044,3,Facilities Management,2025-05-15,20250515,2025-05-24,20250524,Science Center,Custodial,Medium,Completed,12970.4,15484.35,Grounds
+WO-70045,3,Facilities Management,2025-02-19,20250219,2025-03-05,20250305,Administration Hall,Life Safety,Low,Completed,15389.56,18513.48,Electrical
+WO-70046,3,Facilities Management,2024-09-19,20240919,2024-10-03,20241003,Residence Hall A,Life Safety,Low,Completed,11837.04,11670.89,Mechanical
+WO-70047,3,Facilities Management,2025-04-29,20250429,2025-05-08,20250508,Student Union,General Repair,Medium,Completed,3740.05,3201.4,Grounds
+WO-70048,3,Facilities Management,2024-07-19,20240719,2024-08-01,20240801,Student Union,Custodial,Low,Completed,8818.99,8529.78,Electrical
+WO-70049,3,Facilities Management,2025-03-01,20250301,2025-03-14,20250314,Science Center,Electrical,Low,Completed,14592.53,17327.75,Grounds
+WO-70050,3,Facilities Management,2025-04-04,20250404,2025-04-17,20250417,Library,Plumbing,Low,Completed,13154.98,14720.7,Grounds
+WO-70051,3,Facilities Management,2024-08-31,20240831,2024-09-15,20240915,Residence Hall A,Life Safety,Low,Completed,12035.6,13826.07,Mechanical
+WO-70052,3,Facilities Management,2025-04-02,20250402,,,Student Union,Life Safety,High,Open,9176.51,,Electrical
+WO-70053,3,Facilities Management,2024-07-29,20240729,2024-08-06,20240806,Engineering Complex,General Repair,Medium,Completed,6411.67,6495.95,Electrical
+WO-70054,3,Facilities Management,2025-01-10,20250110,2025-01-25,20250125,Student Union,Custodial,Low,Completed,2255.86,2199.6,Life Safety
+WO-70055,4,Information Technology,2025-01-03,20250103,2025-01-06,20250106,Engineering Complex,Electrical,High,Completed,2560.78,3019.95,Grounds
+WO-70056,4,Information Technology,2024-08-05,20240805,2024-08-13,20240813,Science Center,Electrical,Medium,Completed,12265.91,10491.4,Life Safety
+WO-70057,4,Information Technology,2024-08-20,20240820,2024-09-03,20240903,Engineering Complex,HVAC,Low,Completed,3766.48,3221.65,Grounds
+WO-70058,4,Information Technology,2024-09-30,20240930,2024-10-13,20241013,Student Union,Life Safety,Low,Completed,6027.29,6833.75,Mechanical
+WO-70059,4,Information Technology,2024-12-03,20241203,2024-12-08,20241208,Central Plant,Life Safety,High,Completed,3070.2,3699.43,Life Safety
+WO-70060,4,Information Technology,2025-03-10,20250310,2025-03-17,20250317,Library,Custodial,Medium,Completed,1626.1,1765.49,Electrical
+WO-70061,4,Information Technology,2024-08-27,20240827,2024-09-05,20240905,Administration Hall,General Repair,Medium,Completed,10797.18,13101.69,Electrical
+WO-70062,4,Information Technology,2025-06-26,20250626,,,Library,Electrical,High,Open,11954.56,,Life Safety
+WO-70063,4,Information Technology,2024-12-25,20241225,2025-01-07,20250107,Library,HVAC,Low,Completed,2758.41,2377.73,Grounds
+WO-70064,4,Information Technology,2025-02-21,20250221,2025-03-06,20250306,Student Union,Custodial,Low,Completed,16141.5,18683.5,Grounds
+WO-70065,5,College of Liberal Arts,2025-06-04,20250604,2025-06-12,20250612,Administration Hall,Plumbing,Medium,Completed,17642.63,19792.87,Mechanical
+WO-70066,5,College of Liberal Arts,2024-12-18,20241218,2025-01-01,20250101,Science Center,HVAC,Low,Completed,1360.56,1631.24,Building Services
+WO-70067,5,College of Liberal Arts,2025-04-05,20250405,2025-04-14,20250414,Science Center,Life Safety,Medium,Completed,15662.28,17328.35,Grounds
+WO-70068,5,College of Liberal Arts,2024-10-19,20241019,2024-10-24,20241024,Residence Hall A,Plumbing,High,Completed,15681.27,18234.51,Building Services
+WO-70069,5,College of Liberal Arts,2024-07-14,20240714,2024-07-21,20240721,Science Center,General Repair,Medium,Completed,15558.83,16575.76,Building Services
+WO-70070,5,College of Liberal Arts,2025-03-18,20250318,2025-03-27,20250327,Engineering Complex,General Repair,Medium,Completed,3405.45,4056.92,Building Services
+WO-70071,5,College of Liberal Arts,2024-11-25,20241125,2024-11-29,20241129,Residence Hall A,Life Safety,High,Completed,1911.84,2280.09,Electrical
+WO-70072,5,College of Liberal Arts,2025-05-10,20250510,2025-05-25,20250525,Engineering Complex,General Repair,Low,Completed,11360.69,12753.72,Building Services
+WO-70073,5,College of Liberal Arts,2025-03-08,20250308,2025-03-12,20250312,Science Center,Custodial,High,Completed,12530.12,12070.59,Electrical
+WO-70074,5,College of Liberal Arts,2025-01-26,20250126,2025-02-05,20250205,Student Union,HVAC,Medium,Completed,16960.89,15936.84,Life Safety
+WO-70075,6,College of Engineering,2025-04-09,20250409,2025-04-19,20250419,Library,HVAC,Medium,Completed,6673.08,7173.86,Grounds
+WO-70076,6,College of Engineering,2024-09-10,20240910,2024-09-17,20240917,Residence Hall A,Life Safety,Medium,Completed,11667.66,13313.88,Mechanical
+WO-70077,6,College of Engineering,2024-08-22,20240822,2024-08-24,20240824,Library,Life Safety,Critical,Completed,921.91,893.24,Mechanical
+WO-70078,6,College of Engineering,2024-12-25,20241225,2024-12-30,20241230,Engineering Complex,Plumbing,High,Completed,16254.5,18027.7,Grounds
+WO-70079,6,College of Engineering,2024-07-29,20240729,2024-08-07,20240807,Student Union,Life Safety,Medium,Completed,7756.65,8882.37,Mechanical
+WO-70080,6,College of Engineering,2025-05-05,20250505,2025-05-20,20250520,Student Union,HVAC,Low,Completed,10113.16,9096.59,Mechanical
+WO-70081,6,College of Engineering,2024-12-23,20241223,2025-01-06,20250106,Residence Hall A,HVAC,Low,Completed,14109.34,13961.84,Electrical
+WO-70082,6,College of Engineering,2024-11-14,20241114,2024-11-22,20241122,Student Union,Custodial,Medium,Completed,4972.41,5497.56,Electrical
+WO-70083,6,College of Engineering,2025-05-11,20250511,2025-05-14,20250514,Science Center,Plumbing,High,Completed,11036.06,10407.47,Electrical
+WO-70084,6,College of Engineering,2024-11-11,20241111,2024-11-25,20241125,Administration Hall,General Repair,Low,Completed,6107.16,6846.69,Life Safety
+WO-70085,7,Student Affairs,2024-07-25,20240725,2024-08-06,20240806,Central Plant,HVAC,Low,Completed,2053.49,2050.29,Life Safety
+WO-70086,7,Student Affairs,2025-05-21,20250521,,,Administration Hall,General Repair,High,Open,9577.14,,Life Safety
+WO-70087,7,Student Affairs,2025-04-14,20250414,2025-04-20,20250420,Science Center,Plumbing,High,Completed,13811.94,13528.47,Electrical
+WO-70088,7,Student Affairs,2024-12-06,20241206,2024-12-13,20241213,Administration Hall,General Repair,Medium,Completed,577.75,530.63,Electrical
+WO-70089,7,Student Affairs,2024-12-08,20241208,2024-12-22,20241222,Central Plant,Life Safety,Low,Completed,17479.22,19503.2,Building Services
+WO-70090,7,Student Affairs,2024-08-11,20240811,2024-08-18,20240818,Library,Custodial,Medium,Completed,11351.5,12303.43,Building Services
+WO-70091,7,Student Affairs,2024-08-14,20240814,2024-08-26,20240826,Library,Life Safety,Low,Completed,17098.25,18279.22,Mechanical
+WO-70092,7,Student Affairs,2024-07-18,20240718,2024-07-26,20240726,Engineering Complex,Electrical,Medium,Completed,7370.5,7098.49,Grounds
+WO-70093,7,Student Affairs,2024-10-03,20241003,2024-10-18,20241018,Residence Hall A,HVAC,Low,Completed,13470.84,13691.8,Mechanical
+WO-70094,7,Student Affairs,2025-03-04,20250304,2025-03-16,20250316,Library,Life Safety,Low,Completed,10489.27,10683.1,Life Safety
+WO-70095,8,Research Administration,2024-11-08,20241108,2024-11-18,20241118,Residence Hall A,Plumbing,Medium,Completed,7618.63,8336.54,Building Services
+WO-70096,8,Research Administration,2024-07-16,20240716,2024-07-26,20240726,Residence Hall A,Electrical,Medium,Completed,16882.3,15361.34,Grounds
+WO-70097,8,Research Administration,2024-11-14,20241114,2024-11-27,20241127,Administration Hall,HVAC,Low,Completed,14581.9,12749.51,Grounds
+WO-70098,8,Research Administration,2024-10-03,20241003,2024-10-09,20241009,Administration Hall,Plumbing,High,Completed,4982.72,4742.53,Life Safety
+WO-70099,8,Research Administration,2024-09-12,20240912,2024-09-24,20240924,Student Union,Custodial,Low,Completed,17290.89,14994.85,Life Safety
+WO-70100,8,Research Administration,2025-04-20,20250420,2025-04-23,20250423,Central Plant,General Repair,Critical,Completed,9540.04,10889.92,Mechanical
+WO-70101,8,Research Administration,2025-03-10,20250310,2025-03-18,20250318,Student Union,Custodial,Medium,Completed,15550.69,15702.43,Electrical
+WO-70102,8,Research Administration,2025-03-04,20250304,2025-03-11,20250311,Engineering Complex,HVAC,Medium,Completed,9333.54,10725.15,Electrical
+WO-70103,8,Research Administration,2025-03-05,20250305,2025-03-20,20250320,Residence Hall A,Life Safety,Low,Completed,7453.18,8774.62,Mechanical
+WO-70104,8,Research Administration,2025-02-09,20250209,2025-02-17,20250217,Central Plant,Plumbing,Medium,Completed,3987.46,3888.75,Mechanical
+WO-70105,3,Facilities Management,2025-06-24,20250624,,,Science Center,HVAC,Critical,Open,29237.82,,Mechanical
+WO-70106,3,Facilities Management,2025-06-25,20250625,,,Student Union,Life Safety,Critical,Open,20859.5,,Life Safety
+WO-70107,3,Facilities Management,2025-06-26,20250626,,,Residence Hall A,Electrical,Critical,Open,26190.07,,Mechanical
+WO-70108,3,Facilities Management,2025-06-20,20250620,,,Central Plant,Plumbing,Critical,Open,13002.93,,Electrical

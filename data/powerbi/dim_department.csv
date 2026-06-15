@@ -1,0 +1,9 @@
+department_id,department_name,division,department_type,vp_owner,is_academic
+1,Finance & Accounting,Finance and Administration,Administrative,VP Finance,False
+2,Human Resources,Finance and Administration,Administrative,VP Human Resources,False
+3,Facilities Management,Finance and Administration,Operations,VP Operations,False
+4,Information Technology,Information Services,Administrative,CIO,False
+5,College of Liberal Arts,Academic Affairs,Academic,Provost,True
+6,College of Engineering,Academic Affairs,Academic,Provost,True
+7,Student Affairs,Student Success,Student Services,VP Student Affairs,False
+8,Research Administration,Research,Administrative,VP Research,False

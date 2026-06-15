@@ -1,0 +1,17 @@
+department_id,department_name,fiscal_year,total_budget,total_actual_spend,total_committed_amount,budget_variance,budget_utilization_pct,budget_variance_pct,is_over_budget
+1,Finance & Accounting,2024,4632000.0,4238280.02,264947.64,393719.98,91.5,8.5,False
+1,Finance & Accounting,2025,4800000.0,4511999.99,275985.95,288000.01,94.0,6.0,False
+2,Human Resources,2024,3763500.0,3405967.48,190763.87,357532.52,90.5,9.5,False
+2,Human Resources,2025,3900000.0,3626999.99,244659.43,273000.01,93.0,7.0,False
+3,Facilities Management,2024,8299000.0,7759564.98,454340.09,539435.02,93.5,6.5,False
+3,Facilities Management,2025,8600000.0,8255999.98,447977.68,344000.02,96.0,4.0,False
+4,Information Technology,2024,6948000.0,6670080.0,375816.72,277920.0,96.0,4.0,False
+4,Information Technology,2025,7200000.0,7704000.0,602452.48,-504000.0,107.0,-7.0,True
+5,College of Liberal Arts,2024,11097500.0,10265187.49,645842.5,832312.51,92.5,7.5,False
+5,College of Liberal Arts,2025,11500000.0,10925000.02,581905.64,574999.98,95.0,5.0,False
+6,College of Engineering,2024,12738000.0,12037410.0,736755.56,700590.0,94.5,5.5,False
+6,College of Engineering,2025,13200000.0,12804000.02,775446.96,395999.98,97.0,3.0,False
+7,Student Affairs,2024,5211000.0,4976504.99,287303.93,234495.01,95.5,4.5,False
+7,Student Affairs,2025,5400000.0,5291999.96,314845.52,108000.04,98.0,2.0,False
+8,Research Administration,2024,4439000.0,3972905.0,213095.09,466095.0,89.5,10.5,False
+8,Research Administration,2025,4600000.0,4232000.02,245573.9,367999.98,92.0,8.0,False
