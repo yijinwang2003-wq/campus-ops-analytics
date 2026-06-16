@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This portfolio case study simulates a university Finance & Business Information Services analytics initiative. The project demonstrates how a Business Analyst, Business Systems Analyst, Reporting Analyst, or Institutional Analytics professional can translate fragmented administrative reporting into an integrated enterprise analytics solution.
+This case study simulates a university Finance & Business Information Services analytics initiative. The project demonstrates how fragmented administrative reporting can be translated into an integrated enterprise analytics solution.
 
 The platform consolidates Finance, Procurement, Facilities, and HR reporting into a shared analytics model with:
 
@@ -174,14 +174,13 @@ Recommended business actions:
 
 | Deliverable | File | Purpose |
 |---|---|---|
-| BRD | [business_requirements.md](docs/business-analysis/business_requirements.md) | Final business requirements package for the analytics platform. |
+| BRD | [business_requirements.md](docs/business_requirements.md) | Final business requirements package for the analytics platform. |
 | Current State Analysis | [process_flow_current_state.md](docs/architecture/process_flow_current_state.md) | Documents the current procurement process and pain points. |
 | Future State Analysis | [process_flow_future_state.md](docs/architecture/process_flow_future_state.md) | Defines the improved procurement process with tracking, alerts, and dashboard monitoring. |
 | UAT Package | [user_acceptance_testing.md](docs/testing/user_acceptance_testing.md) | Enterprise UAT package with scenarios, test cases, and stakeholder signoff. |
 | Dashboard Specifications | [powerbi_dashboard_design.md](docs/reporting/powerbi_dashboard_design.md) | Dashboard page design, KPIs, visuals, fields, and expected insights. |
-| Project Story | [project_story.md](docs/business-analysis/project_story.md) | Hiring-manager narrative explaining the project end to end. |
+| Project Story | [project_story.md](docs/project_story.md) | Project background, scope definition, and stakeholder context for the analytics initiative. |
 | Executive Report | [executive_summary_report.md](docs/reporting/executive_summary_report.md) | Leadership-facing findings and recommendations. |
-| Interview Guide | [interview_guide.md](docs/business-analysis/interview_guide.md) | Interview preparation and project talking points. |
 
 ## 8. Technical Deliverables
 
@@ -206,13 +205,12 @@ higher-ed-analytics-platform/
 │   └── powerbi/
 ├── docs/
 │   ├── README.md
-│   ├── business-analysis/
+│   ├── business_requirements.md
+│   ├── project_story.md
 │   ├── architecture/
 │   ├── data-model/
 │   ├── reporting/
 │   └── testing/
-├── archive/
-│   └── docs/
 ├── screenshots/
 │   ├── executive_overview_mockup.png
 │   ├── budget_analytics_mockup.png

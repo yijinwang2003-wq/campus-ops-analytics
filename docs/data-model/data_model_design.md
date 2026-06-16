@@ -18,7 +18,7 @@ The business objective of the data model is to create a governed analytics layer
 - Workforce headcount, FTE, vacancy, and salary expense reporting.
 - Executive dashboards and department-level drilldown.
 
-The model is designed for Power BI reporting and portfolio demonstration. It uses realistic synthetic data to simulate enterprise reporting scenarios in a university Finance & Business Information Services environment.
+The model is designed for Power BI reporting and dashboard demonstration. It uses realistic synthetic data to simulate enterprise reporting scenarios in a university Finance & Business Information Services environment.
 
 ## 2. Data Model Overview
 
@@ -292,7 +292,7 @@ Power BI design guidance:
 - Use `dim_department` for shared department, division, department type, VP owner, and academic flag slicers.
 - Use `dim_date` for fiscal-year, fiscal-quarter, and fiscal-month slicers.
 - Use role-playing date relationships for procurement and maintenance lifecycle dates in a production model.
-- For a simplified Power BI Service portfolio build, direct fields such as `approval_month`, `fiscal_year`, and `month_start_date` can be used in visuals.
+- For a simplified Power BI Service build, direct fields such as `approval_month`, `fiscal_year`, and `month_start_date` can be used in visuals.
 
 ## 7. Reporting Use Cases
 

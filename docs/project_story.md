@@ -2,7 +2,7 @@
 
 ## Higher Education Enterprise Analytics & Decision Support Platform
 
-This document explains the project as it would be presented to a hiring manager for a Business Analyst, Data Analyst, or Finance & Business Information Services role.
+This document explains the project background, scope, stakeholder context, solution design, and analytical findings for the Higher Education Enterprise Analytics & Decision Support Platform.
 
 ## 1. Business Problem
 
@@ -57,7 +57,7 @@ Key design decisions:
 - Use `dim_department` as a conformed dimension across all subject areas.
 - Use `dim_date` as the fiscal and calendar reporting dimension.
 - Keep fact tables aligned to business processes: budget, procurement, maintenance, and HR.
-- Produce CSV outputs that can be used in Power BI Service, which is practical for a Mac-based portfolio project.
+- Produce CSV outputs that can be used in Power BI Service for dashboard development and review.
 - Add validation checks so the project demonstrates data quality discipline, not just visualization.
 
 ## 4. Data Engineering Pipeline
@@ -114,7 +114,7 @@ The design process included:
 - Selecting KPIs tied to business decisions.
 - Prioritizing exception-based reporting.
 - Using department and fiscal year as common slicers.
-- Creating high-fidelity static dashboard mockups for portfolio presentation.
+- Creating high-fidelity static dashboard mockups for stakeholder review.
 
 ## 6. Key Insights Found
 
@@ -178,7 +178,7 @@ Finance & Business Information Services should maintain shared definitions for b
 
 ## 8. Future Enhancements
 
-The current project is a portfolio prototype, but it could be extended into a more mature enterprise analytics solution.
+The current project is a prototype, but it could be extended into a more mature enterprise analytics solution.
 
 Potential enhancements include:
 
@@ -190,12 +190,8 @@ Potential enhancements include:
 - Add forecasting for budget utilization and maintenance backlog.
 - Add procurement process mining to identify bottlenecks by workflow stage.
 - Add more detailed HR dimensions such as employee group, job family, and funding source.
-- Create real Draw.io exports and dashboard screenshots for a final portfolio presentation.
+- Create real Draw.io exports and dashboard screenshots for final stakeholder presentation.
 
-## Interview Positioning
+## Project Summary
 
-If asked to explain this project in an interview, the core message is:
-
-> I built a realistic higher education analytics platform that starts with a business problem: administrative data is siloed across Finance, Procurement, Facilities, and HR. I translated that problem into requirements, designed a star-schema data model, generated synthetic enterprise data, built an ETL and validation pipeline, created Power BI-ready datasets, documented current and future processes, and designed dashboards that surface budget risk, procurement bottlenecks, facilities backlog, and workforce trends.
-
-The project demonstrates business analysis, data modeling, process analysis, data quality validation, dashboard design, and executive communication in one end-to-end portfolio artifact.
+The project demonstrates business analysis, data modeling, process analysis, data quality validation, dashboard design, and executive communication in one end-to-end analytics initiative.

@@ -1,14 +1,13 @@
 # Documentation Index
 
-This folder contains the final documentation package for the Higher Education Enterprise Analytics & Decision Support Platform. Drafts, duplicates, and intermediate versions are stored under `archive/docs/` at the repository root.
+This folder contains the final documentation package for the Higher Education Enterprise Analytics & Decision Support Platform.
 
 ## Business Analysis
 
-Stakeholder-facing analysis and portfolio narrative:
+Stakeholder-facing analysis and project context:
 
-- [Business Requirements](business-analysis/business_requirements.md)
-- [Project Story](business-analysis/project_story.md)
-- [Interview Guide](business-analysis/interview_guide.md)
+- [Business Requirements](business_requirements.md)
+- [Project Story](project_story.md)
 
 ## Architecture
 
@@ -38,7 +37,3 @@ Dashboard design and executive-facing findings:
 User acceptance testing package:
 
 - [User Acceptance Testing](testing/user_acceptance_testing.md)
-
-## Archive
-
-Archived documents are retained in `archive/docs/` for traceability. They are not part of the final stakeholder documentation package.

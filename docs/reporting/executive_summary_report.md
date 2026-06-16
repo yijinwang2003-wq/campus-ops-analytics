@@ -3,7 +3,7 @@
 ## Higher Education Enterprise Analytics & Decision Support Platform
 
 Prepared for: University Finance & Business Information Services  
-Reporting Period: FY2024-FY2025 synthetic portfolio dataset  
+Reporting Period: FY2024-FY2025 synthetic dataset  
 Reporting Snapshot: June 30, 2025
 
 ## Executive Summary
@@ -152,4 +152,4 @@ The prototype demonstrates the value of a managed analytics layer. The next matu
 
 The Higher Education Enterprise Analytics & Decision Support Platform provides a realistic model for moving from siloed operational reporting to integrated decision support. The project demonstrates core Business Analyst and Data Analyst capabilities: requirements gathering, process analysis, data modeling, ETL development, data quality testing, dashboard dataset preparation, UAT planning, and executive communication.
 
-The synthetic findings are realistic enough to support interview discussion and portfolio review. They show how integrated analytics can help a university identify over-budget departments, procurement bottlenecks, critical maintenance risk, and workforce trends in a single reporting environment.
+The synthetic findings are realistic enough to support stakeholder review. They show how integrated analytics can help a university identify over-budget departments, procurement bottlenecks, critical maintenance risk, and workforce trends in a single reporting environment.

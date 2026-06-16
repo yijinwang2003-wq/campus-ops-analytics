@@ -14,7 +14,7 @@ The current reporting environment relies on siloed operational reports, manual s
 
 The proposed solution establishes a governed reporting layer using a star-schema data model, Python-based data preparation, data validation checks, and Power BI-ready datasets. The platform supports executive monitoring, department-level drilldown, and analyst-led investigation of budget, procurement, facilities, and HR trends.
 
-The synthetic dataset used for the portfolio model includes realistic business findings:
+The synthetic dataset used for the prototype model includes realistic business findings:
 
 - Information Technology exceeds FY2025 budget at approximately 107% utilization.
 - Student Affairs reaches approximately 98% utilization and should be monitored as a near-limit department.
@@ -268,7 +268,7 @@ The Power BI dashboard package shall include four primary pages.
 - Department is the primary shared organizational dimension.
 - Department IDs are stable across reporting domains.
 - Power BI is the target dashboard platform.
-- CSV exports are acceptable for portfolio demonstration and dashboard prototyping.
+- CSV exports are acceptable for dashboard demonstration and prototyping.
 - The reporting snapshot date for unresolved maintenance aging is June 30, 2025.
 - Synthetic data is representative of realistic university administrative scenarios but is not actual institutional data.
 

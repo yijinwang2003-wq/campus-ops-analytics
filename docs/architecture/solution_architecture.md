@@ -207,7 +207,7 @@ flowchart TD
 | Source Systems | Procurement | Requests, vendors, approvals, PO dates, invoice dates, approval levels, request status. |
 | Source Systems | Facilities | Work orders, buildings, request types, priorities, status, assigned teams, costs. |
 | Source Systems | HR | Headcount, FTE, salary expense, overtime, vacancies, turnover. |
-| Python ETL | `generate_data.py` | Generates realistic synthetic source data for the portfolio model. |
+| Python ETL | `generate_data.py` | Generates realistic synthetic source data for the prototype model. |
 | Python ETL | `transform_data.py` | Cleans, standardizes, and transforms data into Power BI-ready CSV outputs. |
 | Python ETL | `validate_data.py` | Validates department IDs, dates, calculations, and business exception logic. |
 | Analytics Data Layer | `dim_department` | Shared organizational dimension for department, division, department type, and academic flag. |
@@ -226,7 +226,7 @@ flowchart TD
 
 ### Step 1: Source System Inputs
 
-Finance, Procurement, Facilities, and HR provide source data representing the major administrative processes of the university. In this portfolio implementation, those source systems are simulated through synthetic CSV generation.
+Finance, Procurement, Facilities, and HR provide source data representing the major administrative processes of the university. In this prototype implementation, those source systems are simulated through synthetic CSV generation.
 
 Examples:
 

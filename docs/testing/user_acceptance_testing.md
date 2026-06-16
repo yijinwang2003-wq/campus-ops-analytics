@@ -159,7 +159,7 @@ Datasets:
 
 ## 4. UAT Signoff Section
 
-The following stakeholders confirm that the UAT results meet business expectations for the portfolio version of the Higher Education Enterprise Analytics & Decision Support Platform.
+The following stakeholders confirm that the UAT results meet business expectations for the prototype version of the Higher Education Enterprise Analytics & Decision Support Platform.
 
 | Stakeholder Group | Representative | Review Area | Signoff Decision | Date | Notes |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@ The following stakeholders confirm that the UAT results meet business expectatio
 
 ## UAT Summary
 
-All UAT scenarios passed for the portfolio implementation. The platform successfully validates the core business requirements:
+All UAT scenarios passed for the prototype implementation. The platform successfully validates the core business requirements:
 
 - Budget utilization is calculated correctly.
 - Over-budget departments are flagged.

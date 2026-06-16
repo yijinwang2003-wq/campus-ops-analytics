@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document defines the enterprise reporting data model for the Higher Education Enterprise Analytics & Decision Support Platform. It is based on the dashboard-ready CSV files in `data/powerbi/` and is written for a Business Analyst / Data Analyst portfolio audience.
+This document defines the enterprise reporting data model for the Higher Education Enterprise Analytics & Decision Support Platform. It is based on the dashboard-ready CSV files in `data/powerbi/` and is written for analytics and finance stakeholders.
 
 The model integrates Finance, Procurement, Facilities, and HR reporting into a shared Power BI semantic model using conformed department and date dimensions.
 
@@ -153,7 +153,7 @@ Measures and fields:
 
 Power BI note:
 
-- In a simple portfolio model, use `approval_month` directly for trend visuals.
+- In a simplified model, use `approval_month` directly for trend visuals.
 - In a production semantic model, use role-playing date relationships for request date, approval date, PO date, and invoice date.
 
 ### `maintenance_dashboard`
@@ -452,7 +452,7 @@ Recommended visuals:
 
 Analyst note:
 
-- For a simple web-based Power BI portfolio build, `approval_month` can be used directly for approval cycle trends.
+- For a simplified web-based Power BI build, `approval_month` can be used directly for approval cycle trends.
 - For an enterprise semantic model, create inactive date relationships for each lifecycle date and activate them in measures with `USERELATIONSHIP`.
 
 ### Facilities & Workforce

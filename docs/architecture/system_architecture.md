@@ -4,7 +4,7 @@
 
 The platform follows a layered enterprise analytics architecture. Operational source systems provide domain-specific extracts for Finance, Procurement, HR, and Facilities. Python ETL scripts standardize, validate, and transform the data into a star-schema warehouse design. Curated dashboard-ready outputs are then consumed by Power BI for operational dashboards and executive reporting.
 
-This architecture is intentionally simple enough for a portfolio implementation while reflecting the control points used in real Finance & Business Information Services environments: source alignment, transformation logic, dimensional modeling, dashboard semantic design, and leadership reporting.
+This architecture is intentionally simple enough for a prototype implementation while reflecting the control points used in real Finance & Business Information Services environments: source alignment, transformation logic, dimensional modeling, dashboard semantic design, and leadership reporting.
 
 ## Mermaid Diagram
 
