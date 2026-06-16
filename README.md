@@ -272,11 +272,3 @@ Expected validation result:
 All data validations passed.
 6 passed
 ```
-
-## 10. Resume Bullet Points
-
-- Developed a higher education enterprise analytics portfolio project integrating Finance, Procurement, Facilities, and HR reporting into a shared decision-support model for university administrative leadership.
-- Created a complete Business Analyst documentation package including BRD, current-state and future-state process analysis, UAT package, dashboard specifications, executive report, and project story.
-- Designed a star-schema data model with conformed department and date dimensions supporting budget analytics, procurement cycle-time analysis, facilities backlog monitoring, and workforce trend reporting.
-- Built a Python ETL pipeline using Pandas to generate realistic FY2024-FY2025 synthetic data, transform it into Power BI-ready CSV outputs, and validate KPI logic and data quality.
-- Produced executive-style Power BI dashboard mockups highlighting IT budget overrun, Student Affairs budget watchlist status, IT procurement delays, critical maintenance backlog, and workforce vacancy trends.
