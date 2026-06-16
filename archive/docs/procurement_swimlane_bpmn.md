@@ -21,7 +21,7 @@ Open it in diagrams.net / Draw.io with:
 
 1. Open diagrams.net.
 2. Select `File > Open From > Device`.
-3. Choose `docs/procurement_swimlane_bpmn.drawio`.
+3. Choose `archive/docs/procurement_swimlane_bpmn.drawio`.
 4. Export as PNG, SVG, or PDF as needed.
 
 ## Mermaid Version
@@ -80,7 +80,7 @@ Recommended export settings for a polished portfolio image:
 
 | Setting | Recommendation |
 |---|---|
-| Source file | `docs/procurement_swimlane_bpmn.drawio` |
+| Source file | `archive/docs/procurement_swimlane_bpmn.drawio` |
 | Export format | PNG |
 | Filename | `screenshots/procurement_swimlane_bpmn.png` |
 | Canvas | Crop to diagram bounds |

@@ -106,7 +106,7 @@ flowchart TD
 | Data quality assurance | `src/validate_data.py` and `tests/test_data_quality.py` validate calculations and business rules. |
 | Dimensional consistency | Department and date dimensions are reused across all fact tables. |
 | Dashboard readiness | Curated CSV outputs are published to `data/powerbi/`. |
-| Executive communication | Findings are summarized in `docs/executive_summary_report.md`. |
+| Executive communication | Findings are summarized in `../reporting/executive_summary_report.md`. |
 
 ## Draw.io Compatible Diagram Description
 
